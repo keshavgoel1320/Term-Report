@@ -1,0 +1,132 @@
+[
+  {
+    "product_name": "Woven silt fence insert (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Silt fence material is used for erosion control, not typically for building a fence for property boundaries or containment."
+  },
+  {
+    "product_name": "Needle-punched silt fence insert (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Silt fence material is used for erosion control, not typically for building a fence for property boundaries or containment."
+  },
+  {
+    "product_name": "Separator-grade silt fence insert (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Silt fence material is used for erosion control, not typically for building a fence for property boundaries or containment."
+  },
+  {
+    "product_name": "Nonwoven silt fence insert (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Silt fence material is used for erosion control, not typically for building a fence for property boundaries or containment."
+  },
+  {
+    "product_name": "Brushed-finish perforated sheet remnant (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "Stainless steel sheet could potentially be used for a fence, but it's not a common or primary material for most fence types."
+  },
+  {
+    "product_name": "304-grade kick-plate blank (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "Stainless steel sheet could potentially be used for a fence, but it's not a common or primary material for most fence types."
+  },
+  {
+    "product_name": "Wire-pulled junction box offcut (PVC conduit scrap)",
+    "score": 1,
+    "rationale": "PVC conduit is designed for electrical wiring and is not suitable for constructing a fence."
+  },
+  {
+    "product_name": "Rigid-wall 32 mm conduit length (PVC conduit scrap)",
+    "score": 1,
+    "rationale": "PVC conduit is designed for electrical wiring and is not suitable for constructing a fence."
+  },
+  {
+    "product_name": "Laser-cut kick-plate blank (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "Stainless steel sheet could potentially be used for a fence, but it's not a common or primary material for most fence types."
+  },
+  {
+    "product_name": "Woven erosion-control strip (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Erosion control strips are for soil stabilization, not for building fences."
+  },
+  {
+    "product_name": "Block-out edge paver (Concrete paver rejects)",
+    "score": 1,
+    "rationale": "Concrete pavers are for ground surfaces like patios or walkways, not for fence construction."
+  },
+  {
+    "product_name": "Acoustic-grade pipe section half-shell (Mineral wool insulation offcuts)",
+    "score": 1,
+    "rationale": "Mineral wool insulation is for soundproofing and thermal insulation, not for building fences."
+  },
+  {
+    "product_name": "Bolt-hole verified hollow section stub (Scrap structural steel)",
+    "score": 4,
+    "rationale": "Structural steel can be used to build robust fence frames, especially for industrial or security fencing."
+  },
+  {
+    "product_name": "Electrofusion-ready stub-end collar piece (HDPE pipe offcuts)",
+    "score": 1,
+    "rationale": "HDPE pipe offcuts are for plumbing or fluid transport and are not suitable for fence construction."
+  },
+  {
+    "product_name": "Edge-sealed strip panel (Bamboo shuttering offcuts)",
+    "score": 2,
+    "rationale": "Bamboo shuttering might be repurposed for decorative fence elements, but it's not a standard fencing material."
+  },
+  {
+    "product_name": "Edge-sound 1 m channel body (Polymer concrete drainage channel rejects)",
+    "score": 1,
+    "rationale": "Drainage channels are for managing water flow and are not suitable for fence construction."
+  },
+  {
+    "product_name": "Co-extruded deck board offcut (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Embossed-face starter board strip (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Solid-core edge trim (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Solid-core deck board offcut (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Embossed-face stair nosing blank (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Embossed-face deck board offcut (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Co-extruded screen slat offcut (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Reinforcement-free outer frame section (uPVC window frame salvage)",
+    "score": 2,
+    "rationale": "uPVC window frames could potentially be adapted for fence components, but it's not a standard or straightforward use."
+  },
+  {
+    "product_name": "Co-extruded edge trim (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  },
+  {
+    "product_name": "Co-extruded starter board strip (Wood-plastic composite decking offcuts)",
+    "score": 3,
+    "rationale": "Wood-plastic composite decking could be used for fence pickets or panels, offering a durable option."
+  }
+]

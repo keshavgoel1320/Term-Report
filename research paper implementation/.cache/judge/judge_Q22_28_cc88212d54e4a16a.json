@@ -1,0 +1,142 @@
+[
+  {
+    "product_name": "Bush-hammered dropped curb block (Granite curb stone salvage)",
+    "score": 3,
+    "rationale": "While it's a building material for walls, it's specifically for curbs and might not fit a general 'stuff for walls' search, especially for budget-friendly interior applications."
+  },
+  {
+    "product_name": "Polished-face wall tile strip set (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "This is a highly relevant product as it is explicitly described as 'wall tile' and is likely budget-friendly due to being offcuts."
+  },
+  {
+    "product_name": "Wall angle wall angle length (False ceiling T-grid scrap)",
+    "score": 2,
+    "rationale": "This is a component for false ceilings, not directly for walls, and its 'budget-friendly' aspect is implied by being scrap."
+  },
+  {
+    "product_name": "Square-edge access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "This is waste material from ceiling tiles and is not suitable for wall applications."
+  },
+  {
+    "product_name": "Low-stain border strip (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "This is waste material from ceiling tiles and is not suitable for wall applications."
+  },
+  {
+    "product_name": "Re-edgeable column strip (Plywood formwork offcuts)",
+    "score": 3,
+    "rationale": "Plywood can be used for walls, but 'formwork offcuts' suggests it might be rough or unsuitable for finishing, and its 'budget-friendly' nature is implied."
+  },
+  {
+    "product_name": "Grid-clean border strip (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "This is waste material from ceiling tiles and is not suitable for wall applications."
+  },
+  {
+    "product_name": "Anchor-free corner return (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "This is cladding material for walls and 'salvage' implies it could be budget-friendly."
+  },
+  {
+    "product_name": "Wall angle 3600 mm main tee (False ceiling T-grid scrap)",
+    "score": 2,
+    "rationale": "This is a component for false ceilings, not directly for walls, and its 'budget-friendly' aspect is implied by being scrap."
+  },
+  {
+    "product_name": "Grid-clean 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "This is waste material from ceiling tiles and is not suitable for wall applications."
+  },
+  {
+    "product_name": "Low-paint agri-grade gypsum fines (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum fines are a component of drywall, which is used for walls, but 'fines' suggests it's not a primary building material and might be for filler or specific applications."
+  },
+  {
+    "product_name": "Fines-controlled gabion-grade chunks (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Masonry rubble can be used in construction, potentially for retaining walls or as fill, but it's not a typical 'stuff for walls' in the sense of interior finishing and its budget-friendliness is implied by being rubble."
+  },
+  {
+    "product_name": "Foil-faced pipe section half-shell (Mineral wool insulation offcuts)",
+    "score": 1,
+    "rationale": "This is insulation material for pipes and not suitable for walls."
+  },
+  {
+    "product_name": "Needle-punched hex tile remnant (Acoustic polyester panel offcuts)",
+    "score": 2,
+    "rationale": "While it's a panel, it's described as acoustic and likely for ceilings or specialized wall treatments, not general wall construction."
+  },
+  {
+    "product_name": "Pulverized trim strip bundle (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board is used for walls, but 'pulverized trim strip' suggests it's waste material and not in a form suitable for direct wall application without further processing."
+  },
+  {
+    "product_name": "Wall angle hanger clip set (False ceiling T-grid scrap)",
+    "score": 2,
+    "rationale": "This is a component for false ceilings, not directly for walls, and its 'budget-friendly' aspect is implied by being scrap."
+  },
+  {
+    "product_name": "Nonwoven roll strip (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Geotextile is used in civil engineering and landscaping, not for building walls."
+  },
+  {
+    "product_name": "Low-paint board core granules (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board is used for walls, but 'granules' suggests it's waste material and not in a form suitable for direct wall application without further processing."
+  },
+  {
+    "product_name": "Low-paint trim strip bundle (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board is used for walls, but 'trim strip' suggests it's waste material and not in a form suitable for direct wall application without further processing."
+  },
+  {
+    "product_name": "Kiln-dried post section (Reclaimed timber)",
+    "score": 4,
+    "rationale": "Reclaimed timber can be used for various wall applications, and 'reclaimed' implies budget-friendliness."
+  },
+  {
+    "product_name": "Facade-grade corner brick set (Salvaged clay bricks)",
+    "score": 4,
+    "rationale": "Bricks are a common wall material, and 'salvaged' suggests a budget-friendly option."
+  },
+  {
+    "product_name": "Facade-grade coping brick set (Salvaged clay bricks)",
+    "score": 4,
+    "rationale": "Bricks are a common wall material, and 'salvaged' suggests a budget-friendly option."
+  },
+  {
+    "product_name": "De-nailed joist section (Reclaimed timber)",
+    "score": 4,
+    "rationale": "Reclaimed timber can be used for various wall applications, and 'reclaimed' implies budget-friendliness."
+  },
+  {
+    "product_name": "Band-sawn tongue-and-groove strip (Reclaimed timber)",
+    "score": 4,
+    "rationale": "Reclaimed timber can be used for various wall applications, and 'reclaimed' implies budget-friendliness."
+  },
+  {
+    "product_name": "Hand-cleaned solid brick batch (Salvaged clay bricks)",
+    "score": 4,
+    "rationale": "Bricks are a common wall material, and 'salvaged' suggests a budget-friendly option."
+  },
+  {
+    "product_name": "Pulverized laminated board segment (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board is used for walls, but 'pulverized segment' suggests it's waste material and not in a form suitable for direct wall application without further processing."
+  },
+  {
+    "product_name": "Board-trim agri-grade gypsum fines (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board is used for walls, but 'board-trim fines' suggests it's waste material and not in a form suitable for direct wall application without further processing."
+  },
+  {
+    "product_name": "Laser-cut cladding return piece (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "While it's a cladding material, stainless steel might not be considered 'budget-friendly' unless the scrap aspect significantly reduces the price."
+  }
+]

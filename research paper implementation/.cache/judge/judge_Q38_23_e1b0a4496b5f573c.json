@@ -1,0 +1,117 @@
+[
+  {
+    "product_name": "Hand-dressed sill piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "While sandstone can be used in gardens, this product is described as cladding salvage, suggesting it's intended for building facades rather than garden decoration."
+  },
+  {
+    "product_name": "Tool-finished cladding panel (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is described as cladding, which is typically for walls, making it less ideal for decorative garden stone."
+  },
+  {
+    "product_name": "Riven-face coping slab (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "Coping slabs can be used as decorative elements in gardens, such as edging or capping walls."
+  },
+  {
+    "product_name": "Anchor-free jamb piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Jamb pieces are usually for door or window frames, making them less suitable for general decorative garden stone."
+  },
+  {
+    "product_name": "Hand-dressed coping slab (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "Coping slabs are versatile and can be used effectively for decorative edging or capping in garden designs."
+  },
+  {
+    "product_name": "Tool-finished corner return (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Corner returns are specific architectural elements and not typically used as general decorative garden stone."
+  },
+  {
+    "product_name": "Anchor-free cladding panel (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Cladding panels are primarily for building exteriors and less likely to be what a user means by decorative garden stone."
+  },
+  {
+    "product_name": "Polished-face countertop slab offcut (Terrazzo slab offcuts)",
+    "score": 2,
+    "rationale": "Countertop offcuts are generally not suitable for outdoor garden decoration due to their finish and intended use."
+  },
+  {
+    "product_name": "Fine-chip stair tread insert (Terrazzo slab offcuts)",
+    "score": 2,
+    "rationale": "Stair tread inserts are designed for indoor or specific outdoor stair applications, not general garden decoration."
+  },
+  {
+    "product_name": "Bush-hammered transition curb (Granite curb stone salvage)",
+    "score": 4,
+    "rationale": "Granite curb stones can be used decoratively in gardens for edging paths or creating raised beds."
+  },
+  {
+    "product_name": "Polished-face skirting strip (Terrazzo slab offcuts)",
+    "score": 2,
+    "rationale": "Skirting strips are for interior wall bases and not appropriate for decorative garden use."
+  },
+  {
+    "product_name": "Tool-finished coping slab (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "Coping slabs can serve as decorative elements in garden landscaping, such as edging or wall caps."
+  },
+  {
+    "product_name": "Polished-face window sill blank (Terrazzo slab offcuts)",
+    "score": 2,
+    "rationale": "Window sill blanks are designed for windows and their polished finish may not be ideal for a garden setting."
+  },
+  {
+    "product_name": "Hand-riven eave starter slate (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Roofing slate is primarily for roofs and not typically used as decorative garden stone."
+  },
+  {
+    "product_name": "Gauge-sorted slate cladding panel (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Slate cladding is for walls and not the typical material for decorative garden stone."
+  },
+  {
+    "product_name": "Weathered-face slate cladding panel (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "This is cladding for buildings and not suitable for decorative garden stone."
+  },
+  {
+    "product_name": "Weathered-face eave starter slate (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Eave starter slate is a roofing component and not intended for decorative garden use."
+  },
+  {
+    "product_name": "Block-rich 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 1,
+    "rationale": "Crushed masonry rubble is generally used as fill or aggregate, not as decorative stone for a garden."
+  },
+  {
+    "product_name": "Hand-riven hip slate piece (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Roofing slate pieces are designed for roofs and not typically used as decorative garden stone."
+  },
+  {
+    "product_name": "Pin-hole checked ridge slate piece (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Ridge slate pieces are roofing components and not suitable for decorative garden use."
+  },
+  {
+    "product_name": "Screened 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 1,
+    "rationale": "Crushed rubble is not decorative and is typically used for construction fill or base layers."
+  },
+  {
+    "product_name": "Pin-hole checked hip slate piece (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "This is a roofing component and not suitable for decorative garden stone."
+  },
+  {
+    "product_name": "Fines-controlled mixed masonry block (Crushed masonry rubble)",
+    "score": 1,
+    "rationale": "Crushed masonry rubble is not decorative and is primarily used as aggregate or fill material."
+  }
+]

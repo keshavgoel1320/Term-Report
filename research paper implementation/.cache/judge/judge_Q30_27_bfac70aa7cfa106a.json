@@ -1,0 +1,137 @@
+[
+  {
+    "product_name": "Shot-cleaned deck sheet offcut (Aluminum formwork scrap)",
+    "score": 1,
+    "rationale": "The product is aluminum, not plastic, and is described as scrap formwork, which is not what the user is looking for."
+  },
+  {
+    "product_name": "Laser-cut sheet offcut (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as scrap sheet metal."
+  },
+  {
+    "product_name": "Brushed-finish kick-plate blank (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a kick-plate blank."
+  },
+  {
+    "product_name": "Laser-cut perforated sheet remnant (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a perforated sheet remnant."
+  },
+  {
+    "product_name": "316-grade sheet offcut (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a sheet offcut."
+  },
+  {
+    "product_name": "Panel-trim deck sheet offcut (Aluminum formwork scrap)",
+    "score": 1,
+    "rationale": "The product is aluminum, not plastic, and is described as scrap formwork."
+  },
+  {
+    "product_name": "Brushed-finish sheet offcut (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a sheet offcut."
+  },
+  {
+    "product_name": "Brushed-finish perforated sheet remnant (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a perforated sheet remnant."
+  },
+  {
+    "product_name": "Brushed-finish cladding return piece (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a cladding return piece."
+  },
+  {
+    "product_name": "304-grade perforated sheet remnant (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a perforated sheet remnant."
+  },
+  {
+    "product_name": "Corner-cleaned mullion length (uPVC window frame salvage)",
+    "score": 3,
+    "rationale": "This product is made of PVC, which is a type of plastic, but it is specifically window frame salvage, not general plastic sheets."
+  },
+  {
+    "product_name": "Laser-cut cladding return piece (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a cladding return piece."
+  },
+  {
+    "product_name": "316-grade kick-plate blank (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a kick-plate blank."
+  },
+  {
+    "product_name": "Rib-cleaned deck sheet offcut (Aluminum formwork scrap)",
+    "score": 1,
+    "rationale": "The product is aluminum, not plastic, and is described as scrap formwork."
+  },
+  {
+    "product_name": "316-grade cladding return piece (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a cladding return piece."
+  },
+  {
+    "product_name": "304-grade sheet offcut (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a sheet offcut."
+  },
+  {
+    "product_name": "304-grade kick-plate blank (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "The product is stainless steel, not plastic, and is described as a kick-plate blank."
+  },
+  {
+    "product_name": "Mesh-backed strip panel (Bamboo shuttering offcuts)",
+    "score": 1,
+    "rationale": "The product is made of bamboo and resin, not plastic sheets, and is described as shuttering offcuts."
+  },
+  {
+    "product_name": "Clean trench stub-end collar piece (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This product is made of HDPE, which is a type of plastic, and is in a sheet-like form (pipe offcuts can be cut into sheets), making it highly relevant."
+  },
+  {
+    "product_name": "Nonwoven erosion-control strip (Geotextile offcuts)",
+    "score": 4,
+    "rationale": "This product is made of polypropylene, which is a type of plastic, and is described as a strip, implying a sheet-like form, making it highly relevant."
+  },
+  {
+    "product_name": "Granule-faced cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a sheet, but it is made of bitumen and glass fiber, not plastic."
+  },
+  {
+    "product_name": "Granule-faced membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a sheet-like remnant, but it is made of bitumen and polyester, not plastic."
+  },
+  {
+    "product_name": "APP modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a sheet-like offcut, but it is made of modified bitumen, not plastic."
+  },
+  {
+    "product_name": "APP modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a sheet-like remnant, but it is made of modified bitumen, not plastic."
+  },
+  {
+    "product_name": "APP modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a sheet-like offcut, but it is made of bitumen and polyester, not plastic."
+  },
+  {
+    "product_name": "Torch-on membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a sheet-like remnant, but it is made of bitumen and glass fiber, not plastic."
+  },
+  {
+    "product_name": "APP modified parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This product is a strip, but it is made of bitumen, not plastic."
+  }
+]

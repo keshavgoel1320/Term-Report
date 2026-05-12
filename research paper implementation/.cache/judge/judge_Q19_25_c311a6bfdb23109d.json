@@ -1,0 +1,127 @@
+[
+  {
+    "product_name": "Bolt-hole verified UB beam section (Scrap structural steel)",
+    "score": 1,
+    "rationale": "This is scrap structural steel and not a material primarily used for waterproofing."
+  },
+  {
+    "product_name": "Bolt-hole verified plate offcut (Scrap structural steel)",
+    "score": 1,
+    "rationale": "This is scrap structural steel and not a material primarily used for waterproofing."
+  },
+  {
+    "product_name": "Cut-to-length hollow section stub (Scrap structural steel)",
+    "score": 1,
+    "rationale": "This is scrap structural steel and not a material primarily used for waterproofing."
+  },
+  {
+    "product_name": "Shot-blasted plate offcut (Scrap structural steel)",
+    "score": 1,
+    "rationale": "This is scrap structural steel and not a material primarily used for waterproofing."
+  },
+  {
+    "product_name": "Cut-to-length channel member (Scrap structural steel)",
+    "score": 1,
+    "rationale": "This is scrap structural steel and not a material primarily used for waterproofing."
+  },
+  {
+    "product_name": "Granule-faced membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is explicitly described as roofing felt waste from roof waterproofing replacement and is associated with good water impermeability."
+  },
+  {
+    "product_name": "SBS modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is described as waste from roof waterproofing replacement and is associated with good water impermeability."
+  },
+  {
+    "product_name": "Torch-on parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from roof waterproofing replacement and is associated with good water impermeability."
+  },
+  {
+    "product_name": "SBS modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from roof waterproofing replacement and is associated with good water impermeability."
+  },
+  {
+    "product_name": "APP modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from roof waterproofing replacement and is associated with good water impermeability."
+  },
+  {
+    "product_name": "Torch-on membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from new-build membrane cutting and is associated with good short-term weatherproofing."
+  },
+  {
+    "product_name": "SBS modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from new-build membrane cutting and is associated with good short-term weatherproofing."
+  },
+  {
+    "product_name": "APP modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from flat roof detailing trims and is composed of modified bitumen, which is a waterproofing material."
+  },
+  {
+    "product_name": "Granule-faced cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from new-build membrane cutting and is associated with weatherproofing."
+  },
+  {
+    "product_name": "SBS modified parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 5,
+    "rationale": "This product is waste from flat roof detailing trims and is composed of modified bitumen, which is a waterproofing material."
+  },
+  {
+    "product_name": "Weathered-face ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its excellent weathering resistance and low water absorption, making it suitable for waterproofing."
+  },
+  {
+    "product_name": "Hand-riven roof slate tile (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its excellent weathering resistance and low water absorption, making it suitable for waterproofing."
+  },
+  {
+    "product_name": "Hand-riven eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its low water absorption and good freeze-thaw resistance, contributing to waterproofing."
+  },
+  {
+    "product_name": "Weathered-face eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its high surface durability and low water absorption, contributing to waterproofing."
+  },
+  {
+    "product_name": "Weathered-face hip slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its high surface durability and non-combustible properties, suitable for weatherproofing."
+  },
+  {
+    "product_name": "Pin-hole checked slate cladding panel (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its excellent weathering resistance, making it suitable for waterproofing applications."
+  },
+  {
+    "product_name": "Gauge-sorted hip slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its excellent weathering resistance and non-combustible properties, suitable for weatherproofing."
+  },
+  {
+    "product_name": "Gauge-sorted eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its high surface durability and non-combustible properties, suitable for weatherproofing."
+  },
+  {
+    "product_name": "Hand-riven ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its high surface durability and non-combustible properties, suitable for weatherproofing."
+  },
+  {
+    "product_name": "Weathered-face slate cladding panel (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a building material known for its low water absorption and good freeze-thaw resistance, contributing to waterproofing."
+  }
+]

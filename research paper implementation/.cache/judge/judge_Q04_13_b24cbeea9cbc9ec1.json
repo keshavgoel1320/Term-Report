@@ -1,0 +1,67 @@
+[
+  {
+    "product_name": "Cut-to-length UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is scrap structural steel in the form of UB beams, directly matching the user's search for 'scrap steel beams'."
+  },
+  {
+    "product_name": "Shot-blasted UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is scrap structural steel in the form of UB beams, directly matching the user's search for 'scrap steel beams'."
+  },
+  {
+    "product_name": "Paint-stripped UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is scrap structural steel in the form of UB beams, directly matching the user's search for 'scrap steel beams'."
+  },
+  {
+    "product_name": "Paint-stripped channel member (Scrap structural steel)",
+    "score": 3,
+    "rationale": "This is scrap structural steel, but it is a channel member, not a beam, making it moderately relevant."
+  },
+  {
+    "product_name": "Paint-stripped angle section (Scrap structural steel)",
+    "score": 2,
+    "rationale": "This is scrap structural steel, but it is an angle section, not a beam, making it slightly relevant."
+  },
+  {
+    "product_name": "Cut-to-length channel member (Scrap structural steel)",
+    "score": 3,
+    "rationale": "This is scrap structural steel, but it is a channel member, not a beam, making it moderately relevant."
+  },
+  {
+    "product_name": "Shot-blasted hollow section stub (Scrap structural steel)",
+    "score": 2,
+    "rationale": "This is scrap structural steel, but it is a hollow section stub, not a beam, making it slightly relevant."
+  },
+  {
+    "product_name": "Bolt-hole verified angle section (Scrap structural steel)",
+    "score": 2,
+    "rationale": "This is scrap structural steel, but it is an angle section, not a beam, making it slightly relevant."
+  },
+  {
+    "product_name": "Bolt-hole verified plate offcut (Scrap structural steel)",
+    "score": 1,
+    "rationale": "This product is scrap steel plate, not beams, making it completely irrelevant."
+  },
+  {
+    "product_name": "Bolt-hole verified channel member (Scrap structural steel)",
+    "score": 3,
+    "rationale": "This is scrap structural steel, but it is a channel member, not a beam, making it moderately relevant."
+  },
+  {
+    "product_name": "Bolt-hole verified hollow section stub (Scrap structural steel)",
+    "score": 2,
+    "rationale": "This is scrap structural steel, but it is a hollow section stub, not a beam, making it slightly relevant."
+  },
+  {
+    "product_name": "Bolt-hole verified UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is scrap structural steel in the form of UB beams, directly matching the user's search for 'scrap steel beams'."
+  },
+  {
+    "product_name": "Shot-blasted angle section (Scrap structural steel)",
+    "score": 2,
+    "rationale": "This is scrap structural steel, but it is an angle section, not a beam, making it slightly relevant."
+  }
+]

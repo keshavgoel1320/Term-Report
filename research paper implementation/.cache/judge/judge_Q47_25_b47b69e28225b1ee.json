@@ -1,0 +1,127 @@
+[
+  {
+    "product_name": "Gauge-sorted hip slate piece (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not plasterboard."
+  },
+  {
+    "product_name": "Weathered-face slate cladding panel (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not plasterboard."
+  },
+  {
+    "product_name": "Weathered-face ridge slate piece (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not plasterboard."
+  },
+  {
+    "product_name": "Pin-hole checked hip slate piece (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not plasterboard."
+  },
+  {
+    "product_name": "Joinery-grade plank board (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "De-nailed plank board (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "De-nailed tongue-and-groove strip (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "Joinery-grade tongue-and-groove strip (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "De-nailed cleated ramp board (Timber scaffold plank salvage)",
+    "score": 1,
+    "rationale": "This product is salvaged timber scaffold plank, not plasterboard."
+  },
+  {
+    "product_name": "Load-mark legacy deck infill board (Timber scaffold plank salvage)",
+    "score": 1,
+    "rationale": "This product is salvaged timber scaffold plank, not plasterboard."
+  },
+  {
+    "product_name": "Low-paint trim strip bundle (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board, which is commonly known as plasterboard."
+  },
+  {
+    "product_name": "Panelled wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 1,
+    "rationale": "This product is a reclaimed door, not plasterboard."
+  },
+  {
+    "product_name": "Kiln-dried plank board (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "Panelled toilet door leaf (Reclaimed hardwood doors)",
+    "score": 1,
+    "rationale": "This product is a reclaimed door, not plasterboard."
+  },
+  {
+    "product_name": "Joinery-grade post section (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "Kiln-dried joist section (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This product is reclaimed timber, not plasterboard."
+  },
+  {
+    "product_name": "Paper-separated agri-grade gypsum fines (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Paper-separated gypsum powder batch (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Board-trim trim strip bundle (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Low-paint gypsum powder batch (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Board-trim laminated board segment (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Low-paint board core granules (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Pulverized board core granules (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Pulverized trim strip bundle (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  },
+  {
+    "product_name": "Board-trim board core granules (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This product is recycled gypsum board material, which is the core component of plasterboard."
+  }
+]

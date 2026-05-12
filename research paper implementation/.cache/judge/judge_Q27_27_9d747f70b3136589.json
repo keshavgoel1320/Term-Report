@@ -1,0 +1,137 @@
+[
+  {
+    "product_name": "Anti-slip sheet flooring remnant (Rubber flooring offcuts)",
+    "score": 1,
+    "rationale": "This product is made of rubber and is not wood, making it irrelevant to the search for salvaged wood."
+  },
+  {
+    "product_name": "Studded sheet flooring remnant (Rubber flooring offcuts)",
+    "score": 1,
+    "rationale": "This product is made of rubber and is not wood, making it irrelevant to the search for salvaged wood."
+  },
+  {
+    "product_name": "Smooth-face sheet flooring remnant (Rubber flooring offcuts)",
+    "score": 1,
+    "rationale": "This product is made of rubber and is not wood, making it irrelevant to the search for salvaged wood."
+  },
+  {
+    "product_name": "Co-extruded screen slat offcut (Wood-plastic composite decking offcuts)",
+    "score": 2,
+    "rationale": "This product is a wood-plastic composite, not pure salvaged wood, and is intended for decking, not flooring."
+  },
+  {
+    "product_name": "Embossed-face starter board strip (Wood-plastic composite decking offcuts)",
+    "score": 2,
+    "rationale": "This product is a wood-plastic composite, not pure salvaged wood, and is intended for decking, not flooring."
+  },
+  {
+    "product_name": "Louvered door frame leg (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "Panelled toilet door leaf (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "Louvered double-leaf door (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "Frame-ready toilet door leaf (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "Flush-core solid wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "Anti-static finish ramp edge panel (Raised floor panel salvage)",
+    "score": 1,
+    "rationale": "This product is a raised floor panel, not salvaged wood for flooring."
+  },
+  {
+    "product_name": "Band-marked cleated ramp board (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank with cleats, not ideal for flooring without significant processing."
+  },
+  {
+    "product_name": "De-nailed cleated ramp board (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank with cleats, not ideal for flooring without significant processing."
+  },
+  {
+    "product_name": "Kiln-dried tongue-and-groove strip (Reclaimed timber)",
+    "score": 5,
+    "rationale": "This product is reclaimed timber with a tongue-and-groove profile, making it highly suitable for flooring."
+  },
+  {
+    "product_name": "Band-marked deck infill board (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank, not specifically processed for flooring."
+  },
+  {
+    "product_name": "Calcium-sulphate core half panel (Raised floor panel salvage)",
+    "score": 1,
+    "rationale": "This product is a raised floor panel, not salvaged wood for flooring."
+  },
+  {
+    "product_name": "Joinery-grade joist section (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This is reclaimed timber that could be milled into flooring, making it a good, though not perfect, fit."
+  },
+  {
+    "product_name": "Band-sawn tongue-and-groove strip (Reclaimed timber)",
+    "score": 5,
+    "rationale": "This product is reclaimed timber with a tongue-and-groove profile, making it highly suitable for flooring."
+  },
+  {
+    "product_name": "Band-sawn plank board (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This is reclaimed timber planking that could be used for flooring, though it may require milling."
+  },
+  {
+    "product_name": "Kiln-dried post section (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This is reclaimed timber that could be milled into flooring, making it a good, though not perfect, fit."
+  },
+  {
+    "product_name": "Flush-core solid door frame leg (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "Louvered toilet door leaf (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While made of hardwood, this is a door component and not specifically intended or processed for flooring."
+  },
+  {
+    "product_name": "De-nailed scaffold plank (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank, not specifically processed for flooring."
+  },
+  {
+    "product_name": "De-nailed joist section (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This is reclaimed timber that could be milled into flooring, making it a good, though not perfect, fit."
+  },
+  {
+    "product_name": "End-banded toe-board plank (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank, not specifically processed for flooring."
+  },
+  {
+    "product_name": "Band-marked scaffold plank (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank, not specifically processed for flooring."
+  },
+  {
+    "product_name": "Load-mark legacy deck infill board (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "This is timber, but it's a scaffold plank, not specifically processed for flooring."
+  }
+]

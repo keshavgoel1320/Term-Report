@@ -1,0 +1,102 @@
+[
+  {
+    "product_name": "Hand-riven roof slate tile (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Weathered-face roof slate tile (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Pin-hole checked roof slate tile (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Gauge-sorted roof slate tile (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Granule-faced patch repair piece (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This product is roofing felt waste, not old roof tiles, making it irrelevant to the user's search."
+  },
+  {
+    "product_name": "Torch-on patch repair piece (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This product is roofing felt waste, not old roof tiles, making it irrelevant to the user's search."
+  },
+  {
+    "product_name": "APP modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This product is roofing felt waste, not old roof tiles, making it irrelevant to the user's search."
+  },
+  {
+    "product_name": "Granule-faced underlay offcut (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This product is roofing felt waste, not old roof tiles, making it irrelevant to the user's search."
+  },
+  {
+    "product_name": "SBS modified parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This product is roofing felt waste, not old roof tiles, making it irrelevant to the user's search."
+  },
+  {
+    "product_name": "SBS modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This product is roofing felt waste, not old roof tiles, making it irrelevant to the user's search."
+  },
+  {
+    "product_name": "Weathered-face hip slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Hand-riven ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Gauge-sorted ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Gauge-sorted eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Pin-hole checked eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Weathered-face ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Hand-riven slate cladding panel (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Weathered-face eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Pin-hole checked ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This product is reclaimed roof slate, which is a type of old roof tile that a user might be looking for."
+  },
+  {
+    "product_name": "Facade-grade coping brick set (Salvaged clay bricks)",
+    "score": 2,
+    "rationale": "While these are salvaged building materials, they are bricks, not roof tiles, making them only slightly relevant."
+  }
+]

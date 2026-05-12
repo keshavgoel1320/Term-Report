@@ -1,0 +1,92 @@
+[
+  {
+    "product_name": "Load-mark legacy scaffold plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a timber scaffold plank, which is a type of wood plank, and is salvaged, fitting the 'old wood planks' criteria."
+  },
+  {
+    "product_name": "De-nailed cleated ramp board (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, likely old and usable as wood planks, fitting the user's search."
+  },
+  {
+    "product_name": "De-nailed toe-board plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, fitting the user's search for old wood planks."
+  },
+  {
+    "product_name": "Load-mark legacy deck infill board (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, fitting the description of old wood planks for sale."
+  },
+  {
+    "product_name": "Band-marked deck infill board (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, aligning with the user's search."
+  },
+  {
+    "product_name": "End-banded short bearer plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, fitting the user's request for old wood planks."
+  },
+  {
+    "product_name": "Band-marked scaffold plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, making it relevant to the search."
+  },
+  {
+    "product_name": "Hollow-core starter board strip (Wood-plastic composite decking offcuts)",
+    "score": 1,
+    "rationale": "This product is made of wood-plastic composite, not old wood planks, making it irrelevant."
+  },
+  {
+    "product_name": "Co-extruded screen slat offcut (Wood-plastic composite decking offcuts)",
+    "score": 1,
+    "rationale": "This product is made of wood-plastic composite, not old wood planks, making it irrelevant."
+  },
+  {
+    "product_name": "Co-extruded starter board strip (Wood-plastic composite decking offcuts)",
+    "score": 1,
+    "rationale": "This product is made of wood-plastic composite, not old wood planks, making it irrelevant."
+  },
+  {
+    "product_name": "De-nailed scaffold plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, fitting the user's search for old wood planks."
+  },
+  {
+    "product_name": "Load-mark legacy toe-board plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, fitting the user's search for old wood planks."
+  },
+  {
+    "product_name": "Joinery-grade plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "This is a reclaimed timber plank, which directly matches the user's search for old wood planks for sale."
+  },
+  {
+    "product_name": "Band-marked toe-board plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, making it relevant to the search."
+  },
+  {
+    "product_name": "End-banded toe-board plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, fitting the user's search for old wood planks."
+  },
+  {
+    "product_name": "Load-mark legacy short bearer plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, fitting the user's search."
+  },
+  {
+    "product_name": "Band-sawn plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "This is a reclaimed timber plank board, which perfectly matches the user's search for old wood planks for sale."
+  },
+  {
+    "product_name": "End-banded scaffold plank (Timber scaffold plank salvage)",
+    "score": 4,
+    "rationale": "This is a salvaged timber plank, which is a type of wood plank, making it relevant to the search."
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "product_name": "Honed-face kerb insert block (Granite slab offcuts)",
+    "score": 3,
+    "rationale": "Granite offcuts could potentially be used for edging or decorative elements in a driveway, but are not primary paving material."
+  },
+  {
+    "product_name": "Polished-face kerb insert block (Granite slab offcuts)",
+    "score": 3,
+    "rationale": "Granite offcuts could potentially be used for edging or decorative elements in a driveway, but are not primary paving material."
+  },
+  {
+    "product_name": "Calibrated kerb insert block (Granite slab offcuts)",
+    "score": 3,
+    "rationale": "Granite offcuts could potentially be used for edging or decorative elements in a driveway, but are not primary paving material."
+  },
+  {
+    "product_name": "Calibrated countertop remnant (Granite slab offcuts)",
+    "score": 2,
+    "rationale": "Countertop remnants are generally not suitable for paving a driveway due to size, shape, and intended use."
+  },
+  {
+    "product_name": "Block-out edge paver (Concrete paver rejects)",
+    "score": 4,
+    "rationale": "These are concrete pavers, which are a common material for paving driveways, and rejects might be suitable for this purpose."
+  },
+  {
+    "product_name": "Color-mix rectangular paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "These are concrete pavers, a direct and common material for paving driveways, and rejects are likely suitable."
+  },
+  {
+    "product_name": "Permeable rectangular paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "These are concrete pavers, suitable for driveway paving, and permeable options are a specific type of driveway paving."
+  },
+  {
+    "product_name": "Block-out permeable spacer paver (Concrete paver rejects)",
+    "score": 4,
+    "rationale": "While described as a spacer, these are concrete pavers and could potentially be used in a driveway paving context, especially for permeable designs."
+  },
+  {
+    "product_name": "Chamfered rectangular paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "These are concrete pavers, a direct and common material for paving driveways, and rejects are likely suitable."
+  },
+  {
+    "product_name": "Color-mix cobble-format paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "These are concrete pavers, a direct and common material for paving driveways, and rejects are likely suitable."
+  },
+  {
+    "product_name": "Permeable interlock paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "These are concrete pavers, suitable for driveway paving, and permeable options are a specific type of driveway paving."
+  },
+  {
+    "product_name": "Permeable cobble-format paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "These are concrete pavers, suitable for driveway paving, and permeable options are a specific type of driveway paving."
+  },
+  {
+    "product_name": "Binder-rich 10 mm RAP batch (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Low-fines 20 mm RAP batch (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Screened cold-planer fines (Asphalt milling RAP)",
+    "score": 3,
+    "rationale": "While RAP is used for driveways, 'fines' might be more suitable for a base layer rather than the primary paving surface."
+  },
+  {
+    "product_name": "APP modified patch repair piece (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "Roofing felt waste is completely irrelevant to paving a driveway."
+  },
+  {
+    "product_name": "Plant-return cold-planer fines (Asphalt milling RAP)",
+    "score": 3,
+    "rationale": "While RAP is used for driveways, 'fines' might be more suitable for a base layer rather than the primary paving surface."
+  },
+  {
+    "product_name": "Binder-rich 20 mm RAP batch (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Screened 10 mm RAP batch (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Low-fines full-depth millings (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Plant-return 10 mm RAP batch (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Binder-rich stabilized RAP blend (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Screened full-depth millings (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  },
+  {
+    "product_name": "Low-fines 10 mm RAP batch (Asphalt milling RAP)",
+    "score": 4,
+    "rationale": "Asphalt milling RAP is a common material used for driveways, especially for base layers or as a surface material."
+  }
+]

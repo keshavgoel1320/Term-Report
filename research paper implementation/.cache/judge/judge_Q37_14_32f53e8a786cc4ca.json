@@ -1,0 +1,72 @@
+[
+  {
+    "product_name": "Cut-to-length UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'UB beam section', which is a common form of structural steel."
+  },
+  {
+    "product_name": "Paint-stripped channel member (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'channel member', a type of structural steel."
+  },
+  {
+    "product_name": "Bolt-hole verified angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is an 'angle section', a common form of structural steel."
+  },
+  {
+    "product_name": "Paint-stripped angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is an 'angle section', a common form of structural steel."
+  },
+  {
+    "product_name": "Cut-to-length plate offcut (Scrap structural steel)",
+    "score": 4,
+    "rationale": "While 'plate offcut' is less specific than beam or angle, it is still categorized as 'Scrap structural steel' and is therefore highly relevant."
+  },
+  {
+    "product_name": "Cut-to-length channel member (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'channel member', a type of structural steel."
+  },
+  {
+    "product_name": "Shot-blasted angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is an 'angle section', a common form of structural steel."
+  },
+  {
+    "product_name": "Shot-blasted UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'UB beam section', which is a common form of structural steel."
+  },
+  {
+    "product_name": "Paint-stripped hollow section stub (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'hollow section stub', a type of structural steel."
+  },
+  {
+    "product_name": "Cut-to-length angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is an 'angle section', a common form of structural steel."
+  },
+  {
+    "product_name": "Paint-stripped UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'UB beam section', which is a common form of structural steel."
+  },
+  {
+    "product_name": "Shot-blasted hollow section stub (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'hollow section stub', a type of structural steel."
+  },
+  {
+    "product_name": "Cut-to-length hollow section stub (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'hollow section stub', a type of structural steel."
+  },
+  {
+    "product_name": "Bolt-hole verified hollow section stub (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This product is explicitly described as 'Scrap structural steel' and is a 'hollow section stub', a type of structural steel."
+  }
+]

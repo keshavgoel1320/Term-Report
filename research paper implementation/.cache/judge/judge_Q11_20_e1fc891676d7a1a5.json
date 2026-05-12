@@ -1,0 +1,102 @@
+[
+  {
+    "product_name": "Fine-chip skirting strip (Terrazzo slab offcuts)",
+    "score": 3,
+    "rationale": "While terrazzo can be used for flooring, skirting strips are typically for walls, making this a moderately relevant but not ideal fit."
+  },
+  {
+    "product_name": "Polished-face tabletop blank (Terrazzo slab offcuts)",
+    "score": 1,
+    "rationale": "Tabletop blanks are not suitable for bathroom floors."
+  },
+  {
+    "product_name": "Precast stair tread insert (Terrazzo slab offcuts)",
+    "score": 1,
+    "rationale": "Stair tread inserts are designed for stairs and not for bathroom floors."
+  },
+  {
+    "product_name": "Marble-rich window sill blank (Terrazzo slab offcuts)",
+    "score": 1,
+    "rationale": "Window sill blanks are not suitable for bathroom floors."
+  },
+  {
+    "product_name": "Polished-face stair tread insert (Terrazzo slab offcuts)",
+    "score": 1,
+    "rationale": "Stair tread inserts are designed for stairs and not for bathroom floors."
+  },
+  {
+    "product_name": "Marble-rich skirting strip (Terrazzo slab offcuts)",
+    "score": 3,
+    "rationale": "Similar to other skirting strips, this is moderately relevant as it's for walls, not floors."
+  },
+  {
+    "product_name": "Fine-chip countertop slab offcut (Terrazzo slab offcuts)",
+    "score": 3,
+    "rationale": "Countertop slabs could potentially be cut for flooring, but it's not their primary intended use."
+  },
+  {
+    "product_name": "Precast window sill blank (Terrazzo slab offcuts)",
+    "score": 1,
+    "rationale": "Window sill blanks are not suitable for bathroom floors."
+  },
+  {
+    "product_name": "Marble-rich countertop slab offcut (Terrazzo slab offcuts)",
+    "score": 3,
+    "rationale": "Countertop slabs could potentially be cut for flooring, but it's not their primary intended use."
+  },
+  {
+    "product_name": "Polished-face window sill blank (Terrazzo slab offcuts)",
+    "score": 1,
+    "rationale": "Window sill blanks are not suitable for bathroom floors."
+  },
+  {
+    "product_name": "Polished-face skirting strip (Terrazzo slab offcuts)",
+    "score": 3,
+    "rationale": "Skirting strips are typically for walls, making this moderately relevant for a floor application."
+  },
+  {
+    "product_name": "Slip-rated floor tile offcut set (Ceramic tile offcuts)",
+    "score": 5,
+    "rationale": "Slip-rated floor tiles are specifically designed for flooring and are a perfect fit for a bathroom floor."
+  },
+  {
+    "product_name": "Slip-rated wall tile strip set (Ceramic tile offcuts)",
+    "score": 2,
+    "rationale": "While slip-rated, these are wall tiles and less ideal for a bathroom floor compared to floor tiles."
+  },
+  {
+    "product_name": "Glaze-intact floor tile offcut set (Ceramic tile offcuts)",
+    "score": 5,
+    "rationale": "Floor tiles are exactly what a user would need for a bathroom floor."
+  },
+  {
+    "product_name": "Haunch-ready sump unit (Polymer concrete drainage channel rejects)",
+    "score": 1,
+    "rationale": "Drainage channel components are not suitable for bathroom flooring."
+  },
+  {
+    "product_name": "PVC-back quarter tile pack (Carpet tile uplift waste)",
+    "score": 1,
+    "rationale": "Carpet tiles are not suitable for a bathroom floor due to water exposure."
+  },
+  {
+    "product_name": "Gym-grade sheet flooring remnant (Rubber flooring offcuts)",
+    "score": 4,
+    "rationale": "Rubber flooring is water-resistant and durable, making it a good option for a bathroom floor, though not as common as tile."
+  },
+  {
+    "product_name": "Low-stain 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "Ceiling tiles are not designed for floor use and would not be appropriate for a bathroom."
+  },
+  {
+    "product_name": "Anti-slip tile offcut (Rubber flooring offcuts)",
+    "score": 4,
+    "rationale": "Anti-slip rubber flooring is a good, safe option for a bathroom floor."
+  },
+  {
+    "product_name": "Precast skirting strip (Terrazzo slab offcuts)",
+    "score": 3,
+    "rationale": "Skirting strips are typically for walls, making this moderately relevant for a floor application."
+  }
+]

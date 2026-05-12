@@ -1,0 +1,77 @@
+[
+  {
+    "product_name": "Flush-core solid double-leaf door (Reclaimed hardwood doors)",
+    "score": 5,
+    "rationale": "This product is a reclaimed hardwood door, which directly matches the user's search for 'old doors interior'."
+  },
+  {
+    "product_name": "Flush-core solid door frame leg (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While it's a reclaimed hardwood component from interior renovation, it is a door frame leg, not a complete door."
+  },
+  {
+    "product_name": "Frame-ready single-leaf door (Reclaimed hardwood doors)",
+    "score": 5,
+    "rationale": "This product is a reclaimed hardwood door, fitting the user's search for 'old doors interior'."
+  },
+  {
+    "product_name": "Frame-ready wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a reclaimed hardwood shutter, which is a type of door component for a wardrobe and is relevant to interior doors."
+  },
+  {
+    "product_name": "Panelled wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a reclaimed hardwood shutter, which is a type of door component for a wardrobe and is relevant to interior doors."
+  },
+  {
+    "product_name": "Louvered toilet door leaf (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a reclaimed hardwood door leaf specifically for a toilet, which is an interior door."
+  },
+  {
+    "product_name": "Panelled single-leaf door (Reclaimed hardwood doors)",
+    "score": 5,
+    "rationale": "This product is a reclaimed hardwood door, directly matching the user's search for 'old doors interior'."
+  },
+  {
+    "product_name": "Kiln-dried joist section (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This is a timber joist section, which is not a door and is irrelevant to the user's search."
+  },
+  {
+    "product_name": "Frame-ready double-leaf door (Reclaimed hardwood doors)",
+    "score": 5,
+    "rationale": "This product is a reclaimed hardwood door, fitting the user's search for 'old doors interior'."
+  },
+  {
+    "product_name": "Joinery-grade tongue-and-groove strip (Reclaimed timber)",
+    "score": 1,
+    "rationale": "This is a timber strip, not a door, and is irrelevant to the user's search."
+  },
+  {
+    "product_name": "Louvered double-leaf door (Reclaimed hardwood doors)",
+    "score": 5,
+    "rationale": "This product is a reclaimed hardwood door, directly matching the user's search for 'old doors interior'."
+  },
+  {
+    "product_name": "Flush-core solid toilet door leaf (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a reclaimed hardwood door leaf for a toilet, which is an interior door."
+  },
+  {
+    "product_name": "Flush-core solid single-leaf door (Reclaimed hardwood doors)",
+    "score": 5,
+    "rationale": "This product is a reclaimed hardwood door, directly matching the user's search for 'old doors interior'."
+  },
+  {
+    "product_name": "Frame-ready toilet door leaf (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a reclaimed hardwood door leaf for a toilet, which is an interior door."
+  },
+  {
+    "product_name": "Flush-core solid wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a reclaimed hardwood shutter, which is a type of door component for a wardrobe and is relevant to interior doors."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "product_name": "Polished-edge partition panel remnant (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is glass offcuts, which is somewhat related to 'old glass', but it's specifically fire-rated glass for partitions, not general window glass."
+  },
+  {
+    "product_name": "Frame-trim partition panel remnant (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts from partitions, which is tangentially related to 'old glass' but not specifically for windows."
+  },
+  {
+    "product_name": "Ceramic-rated transom strip (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not typically used for standard windows."
+  },
+  {
+    "product_name": "Ceramic-rated vision panel offcut (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts from doors, which is a type of glass but not directly for windows."
+  },
+  {
+    "product_name": "Laminated intumescent door lite blank (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not typically used for general window applications."
+  },
+  {
+    "product_name": "Ceramic-rated sidelight strip (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not specifically for windows."
+  },
+  {
+    "product_name": "Polished-edge door lite blank (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not typically used for standard windows."
+  },
+  {
+    "product_name": "Polished-edge transom strip (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not directly for windows."
+  },
+  {
+    "product_name": "Laminated intumescent transom strip (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not typically used for general window applications."
+  },
+  {
+    "product_name": "Frame-trim door lite blank (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not directly for windows."
+  },
+  {
+    "product_name": "Low-ceramic clear cullet batch (Waste glass cullet)",
+    "score": 4,
+    "rationale": "This waste glass cullet comes from window replacement strip-out, making it highly relevant to 'old glass for windows'."
+  },
+  {
+    "product_name": "Laminate-separated foam-glass feed batch (Waste glass cullet)",
+    "score": 4,
+    "rationale": "This waste glass cullet originates from window replacement strip-out, making it highly relevant to 'old glass for windows'."
+  },
+  {
+    "product_name": "Laminated intumescent vision panel offcut (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not typically used for standard windows."
+  },
+  {
+    "product_name": "Anodized sash section (Aluminum window frame salvage)",
+    "score": 2,
+    "rationale": "This is an aluminum window frame, which is related to windows but not the 'old glass' itself."
+  },
+  {
+    "product_name": "Frame-trim vision panel offcut (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This is fire-rated glass offcuts, which is a type of glass but not typically used for general window applications."
+  },
+  {
+    "product_name": "Non-thermal sash section (Aluminum window frame salvage)",
+    "score": 2,
+    "rationale": "This is an aluminum window frame, which is related to windows but not the 'old glass' itself."
+  }
+]

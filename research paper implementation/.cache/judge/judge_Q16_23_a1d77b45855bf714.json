@@ -1,0 +1,117 @@
+[
+  {
+    "product_name": "Square-edge access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "Mineral fiber ceiling tiles can offer some sound absorption, but this is a waste product and its acoustic properties are not explicitly highlighted as a primary feature."
+  },
+  {
+    "product_name": "Laminated slot diffuser lining (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is explicitly described as 'acoustic polyester panel offcuts', indicating it is designed for sound absorption."
+  },
+  {
+    "product_name": "Low-stain border strip (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "Mineral fiber ceiling tiles can offer some sound absorption, but this is a waste product and its acoustic properties are not explicitly highlighted as a primary feature."
+  },
+  {
+    "product_name": "Needle-punched wall panel offcut (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is explicitly described as 'acoustic polyester panel offcuts' and mentions good acoustic properties, making it relevant for soundproofing."
+  },
+  {
+    "product_name": "Grid-clean 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "Mineral fiber ceiling tiles can offer some sound absorption, but this is a waste product and its acoustic properties are not explicitly highlighted as a primary feature."
+  },
+  {
+    "product_name": "Needle-punched hex tile remnant (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is explicitly described as 'acoustic polyester panel offcuts' and mentions acoustic properties, making it relevant for soundproofing."
+  },
+  {
+    "product_name": "Laminated baffle strip (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is explicitly described as 'acoustic polyester panel offcuts' and mentions acoustic properties, making it relevant for soundproofing."
+  },
+  {
+    "product_name": "PET-felt desk screen blank (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is made from PET felt and is described as 'acoustic polyester panel offcuts', suggesting it has sound-dampening qualities."
+  },
+  {
+    "product_name": "CNC-cut desk screen blank (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is described as 'acoustic polyester panel offcuts' and mentions good acoustic properties, making it relevant for soundproofing."
+  },
+  {
+    "product_name": "Tegular-edge service tile remnant (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "Mineral fiber ceiling tiles can offer some sound absorption, but this is a waste product and its acoustic properties are not explicitly highlighted as a primary feature."
+  },
+  {
+    "product_name": "Low-paint laminated board segment (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board can offer some sound damping, and this product mentions 'moderate acoustic damping', making it somewhat relevant."
+  },
+  {
+    "product_name": "Paper-separated trim strip bundle (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board can offer some sound damping, and this product mentions 'moderate acoustic damping', making it somewhat relevant."
+  },
+  {
+    "product_name": "Low-paint trim strip bundle (Recycled gypsum board)",
+    "score": 3,
+    "rationale": "Gypsum board can offer some sound damping, and this product mentions 'moderate acoustic damping', making it somewhat relevant."
+  },
+  {
+    "product_name": "Edge-sound 1 m channel body (Polymer concrete drainage channel rejects)",
+    "score": 2,
+    "rationale": "While the name includes 'sound', the product is a drainage channel and its primary function is not soundproofing, though it might offer some incidental sound dampening."
+  },
+  {
+    "product_name": "Acoustic-grade 75 mm slab offcut (Mineral wool insulation offcuts)",
+    "score": 5,
+    "rationale": "This product is explicitly labeled 'Acoustic-grade' and is made of mineral wool, a common soundproofing material."
+  },
+  {
+    "product_name": "Acoustic-grade compressed loose fiber bale (Mineral wool insulation offcuts)",
+    "score": 5,
+    "rationale": "This product is explicitly labeled 'Acoustic-grade' and mentions 'good acoustic absorption', making it highly relevant for soundproofing."
+  },
+  {
+    "product_name": "Packaging-clean bead regrind bag (EPS insulation offcuts)",
+    "score": 2,
+    "rationale": "EPS insulation is primarily for thermal insulation and has limited soundproofing capabilities, making it only slightly relevant."
+  },
+  {
+    "product_name": "Rigid-board 100 mm board offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "Mineral wool is a known soundproofing material, and this is a board offcut, suggesting it could be used for sound insulation."
+  },
+  {
+    "product_name": "Kiln-sound corner brick set (Salvaged clay bricks)",
+    "score": 2,
+    "rationale": "While bricks have mass which can block sound, they are not typically considered a primary soundproofing material, and 'kiln-sound' likely refers to firing quality."
+  },
+  {
+    "product_name": "PET-felt hex tile remnant (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is described as 'Acoustic polyester panel offcuts' and made of PET felt, indicating it is designed for sound absorption."
+  },
+  {
+    "product_name": "Ceramic-rated partition panel remnant (Fire-rated glass offcuts)",
+    "score": 3,
+    "rationale": "This product mentions 'moderate acoustic control', making it somewhat relevant for soundproofing, though its primary rating is fire resistance."
+  },
+  {
+    "product_name": "CNC-cut wall panel offcut (Acoustic polyester panel offcuts)",
+    "score": 4,
+    "rationale": "This product is described as 'Acoustic polyester panel offcuts' and made of recycled PET, indicating it is designed for sound absorption."
+  },
+  {
+    "product_name": "Kiln-sound wire-cut brick batch (Salvaged clay bricks)",
+    "score": 2,
+    "rationale": "While bricks have mass which can block sound, they are not typically considered a primary soundproofing material, and 'kiln-sound' likely refers to firing quality."
+  }
+]

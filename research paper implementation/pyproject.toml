@@ -1,0 +1,25 @@
+[project]
+name = "cwm-research"
+version = "2.0.0"
+description = "Comparative retrieval study for construction waste management search"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "faiss-cpu>=1.9.0",
+    "google-cloud-aiplatform>=1.130.0",
+    "google-genai>=1.51.0",
+    "numpy>=2.2.0",
+    "pydantic>=2.10.0",
+    "rank-bm25>=0.2.2",
+    "rich>=14.0.0",
+    "sentence-transformers>=4.1.0",
+    "tqdm>=4.67.0",
+    "typer>=0.16.0",
+]
+
+[project.scripts]
+cwm-study = "cwm_research.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

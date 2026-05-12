@@ -1,0 +1,117 @@
+[
+  {
+    "product_name": "Pressure-class 110 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Plain-end 90 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Clean trench 160 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Electrofusion-ready 63 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Clean trench 63 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Plain-end 110 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Clean trench 90 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Clean trench stub-end collar piece (HDPE pipe offcuts)",
+    "score": 3,
+    "rationale": "This is a pipe fitting offcut made of HDPE, which is used in plumbing, but it's a specific fitting rather than a general pipe offcut."
+  },
+  {
+    "product_name": "Electrofusion-ready 160 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Pressure-class 90 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "No-hub tee fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a plumbing fitting, but it's cast iron drainage pipe, which is a specific type of plumbing and may not be what the user is looking for if they need supply pipes."
+  },
+  {
+    "product_name": "Gasket-free tee fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a plumbing fitting, but it's cast iron drainage pipe, which is a specific type of plumbing and may not be what the user is looking for if they need supply pipes."
+  },
+  {
+    "product_name": "Shot-cleaned tee fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a plumbing fitting, but it's cast iron drainage pipe, which is a specific type of plumbing and may not be what the user is looking for if they need supply pipes."
+  },
+  {
+    "product_name": "Clean trench 110 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "Plain-end 63 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 4,
+    "rationale": "This is a pipe offcut, which is relevant to plumbing, and the material (HDPE) is commonly used in plumbing applications."
+  },
+  {
+    "product_name": "PVC-jacketed multi-core cable bundle (Copper cable scrap)",
+    "score": 1,
+    "rationale": "This product is electrical cable scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "Rigid-wall junction box offcut (PVC conduit scrap)",
+    "score": 1,
+    "rationale": "This product is electrical conduit scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "PVC-jacketed earthing conductor coil (Copper cable scrap)",
+    "score": 1,
+    "rationale": "This product is electrical cable scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "Socket-free junction box offcut (PVC conduit scrap)",
+    "score": 1,
+    "rationale": "This product is electrical conduit scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "Sheath-stripped granulated copper chop (Copper cable scrap)",
+    "score": 1,
+    "rationale": "This product is electrical cable scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "Sheath-stripped single-core cable bundle (Copper cable scrap)",
+    "score": 1,
+    "rationale": "This product is electrical cable scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "Wire-pulled bent elbow segment (PVC conduit scrap)",
+    "score": 1,
+    "rationale": "This product is electrical conduit scrap and has no relevance to plumbing pipes."
+  },
+  {
+    "product_name": "Granulated single-core cable bundle (Copper cable scrap)",
+    "score": 1,
+    "rationale": "This product is electrical cable scrap and has no relevance to plumbing pipes."
+  }
+]

@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Runtime logs (regenerated on each run)
+logs/
+
+# Auto-generated reports (regenerated from results.json)
+methodology.md
+
+# Internal working documents (not for publication)
+evaluation_explained.md
+research_paper.md

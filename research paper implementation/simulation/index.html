@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Interactive simulation of LLM-Augmented Hybrid Retrieval pipeline evaluation across 50 queries and 1000 products">
+  <title>Pipeline Evaluation Simulation — LLM-Augmented Hybrid Retrieval</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bg-effect"></div>
+
+  <!-- Loading Screen -->
+  <div id="loading" class="loading-screen">
+    <div class="spinner"></div>
+    <div class="loading-text">Loading experiment data…</div>
+  </div>
+
+  <!-- Main App -->
+  <div id="app-main" class="app" style="display:none">
+
+    <!-- Header -->
+    <header class="header">
+      <div class="container header-inner">
+        <div>
+          <h1>LLM-Augmented Hybrid Retrieval — Evaluation Replay</h1>
+          <div class="header-subtitle">50 queries · 3 pipelines · 1,000 products · Construction Waste Marketplace</div>
+        </div>
+        <div class="tabs">
+          <button class="tab-btn active" data-tab="tab-simulation" id="tab-btn-sim">⚡ Simulation</button>
+          <button class="tab-btn" data-tab="tab-database" id="tab-btn-db">🗃️ Product Database</button>
+        </div>
+      </div>
+    </header>
+
+    <main class="container">
+
+      <!-- ════════════════ SIMULATION TAB ════════════════ -->
+      <section id="tab-simulation" class="tab-content active">
+
+        <!-- Controls -->
+        <div class="controls-bar">
+          <button class="btn btn-primary" id="btn-next">▶ Next Query</button>
+          <button class="btn btn-success" id="btn-autoplay">▶ Auto-Play</button>
+          <button class="btn btn-warning" id="btn-total">📊 Total Result</button>
+          <button class="btn" id="btn-reset">↺ Reset</button>
+          <div class="speed-control">
+            <label>Speed:</label>
+            <input type="range" id="speed-slider" min="500" max="5000" step="250" value="2000">
+            <span id="speed-val" style="font-family:'JetBrains Mono',monospace;font-size:0.8rem;color:var(--text-secondary);width:32px">2.0s</span>
+          </div>
+          <div class="progress-label">
+            <span id="progress-text">0 / 50</span>
+            <div class="progress-bar-wrap"><div class="progress-bar-fill" id="progress-fill" style="width:0%"></div></div>
+          </div>
+        </div>
+
+        <!-- Query Banner -->
+        <div class="query-banner" id="query-banner" style="display:none"></div>
+
+        <!-- Pipeline Results (3 columns) -->
+        <div class="pipelines-grid">
+          <div class="pipeline-col card" data-pipeline="basic_hybrid">
+            <div class="card-header">
+              <div>
+                <div class="pipeline-label">Pipeline 1 — Basic Hybrid</div>
+                <div class="pipeline-desc">Vague query → raw BM25+FAISS index</div>
+              </div>
+            </div>
+            <div class="card-body" id="results-basic_hybrid" style="max-height:600px;overflow-y:auto">
+              <div class="empty-state"><div class="icon">📋</div><p>Click "Next Query" to begin the simulation</p></div>
+            </div>
+          </div>
+          <div class="pipeline-col card" data-pipeline="enriched_hybrid">
+            <div class="card-header">
+              <div>
+                <div class="pipeline-label">Pipeline 2 — Enriched Hybrid</div>
+                <div class="pipeline-desc">Vague query → LLM-enriched index</div>
+              </div>
+            </div>
+            <div class="card-body" id="results-enriched_hybrid" style="max-height:600px;overflow-y:auto">
+              <div class="empty-state"><div class="icon">📋</div><p>Click "Next Query" to begin the simulation</p></div>
+            </div>
+          </div>
+          <div class="pipeline-col card" data-pipeline="rewrite_enriched">
+            <div class="card-header">
+              <div>
+                <div class="pipeline-label">Pipeline 3 — Rewrite + Enriched</div>
+                <div class="pipeline-desc">LLM-rewritten query → enriched index</div>
+              </div>
+            </div>
+            <div class="card-body" id="results-rewrite_enriched" style="max-height:600px;overflow-y:auto">
+              <div class="empty-state"><div class="icon">📋</div><p>Click "Next Query" to begin the simulation</p></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Per-Query Metrics -->
+        <div class="metrics-section card" id="per-query-metrics" style="display:none"></div>
+
+        <!-- Cumulative Metrics -->
+        <div class="cumulative-card card" id="cumulative-section" style="display:none">
+          <div class="card-header"><h3>📊 Cumulative Metrics (Running Average)</h3></div>
+          <div class="card-body" id="cumulative-body"></div>
+        </div>
+
+      </section>
+
+      <!-- ════════════════ DATABASE TAB ════════════════ -->
+      <section id="tab-database" class="tab-content">
+
+        <div class="db-controls">
+          <input type="text" class="search-input" id="db-search" placeholder="Search products by name, material, application…">
+          <select class="filter-select" id="db-category"><option value="">All Categories (50)</option></select>
+          <span class="db-stats" id="db-stats"></span>
+        </div>
+
+        <!-- Category Distribution -->
+        <div class="card" style="margin-bottom:1.25rem">
+          <div class="card-header"><h3>📊 Category Distribution (1,000 products across 50 categories)</h3></div>
+          <div class="card-body" id="cat-chart" style="max-height:400px;overflow-y:auto"></div>
+        </div>
+
+        <!-- Product Grid -->
+        <div id="products-grid" class="products-grid"></div>
+        <div id="db-pagination" class="pagination"></div>
+
+      </section>
+
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+[
+  {
+    "product_name": "Color-sorted green cullet batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "While it is glass cullet, the description focuses on industrial reuse and doesn't mention suitability for crafts."
+  },
+  {
+    "product_name": "Color-sorted clear cullet batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This is glass cullet, but the description emphasizes industrial applications and chemical inertness rather than craft use."
+  },
+  {
+    "product_name": "Low-ceramic bronze facade cullet (Waste glass cullet)",
+    "score": 3,
+    "rationale": "The product is glass cullet, but its description focuses on construction material properties and not craft applications."
+  },
+  {
+    "product_name": "Laminate-separated clear cullet batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This is glass cullet, but the description highlights its industrial origins and properties, not its use in crafts."
+  },
+  {
+    "product_name": "Washed bronze facade cullet (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This is glass cullet, but the description focuses on its properties for industrial reuse, not for craft purposes."
+  },
+  {
+    "product_name": "Low-ceramic green cullet batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "The product is glass cullet, but the description is geared towards industrial applications and construction materials."
+  },
+  {
+    "product_name": "Color-sorted foam-glass feed batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This is glass cullet, but the description focuses on its properties as a feed material for foam glass production, not for crafts."
+  },
+  {
+    "product_name": "Laminate-separated foam-glass feed batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "While it is glass cullet, the description emphasizes its use as a feed material for industrial processes, not for crafting."
+  },
+  {
+    "product_name": "Low-ceramic clear cullet batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This product is glass cullet, but the description focuses on its industrial properties and origins, not craft suitability."
+  },
+  {
+    "product_name": "Washed green cullet batch (Waste glass cullet)",
+    "score": 3,
+    "rationale": "The product is glass cullet, but the description is focused on industrial reuse and construction material properties."
+  },
+  {
+    "product_name": "Laminate-separated laminated ribbon cullet (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This is glass cullet, but the description focuses on its properties for industrial applications and not for craft use."
+  },
+  {
+    "product_name": "Color-sorted bronze facade cullet (Waste glass cullet)",
+    "score": 3,
+    "rationale": "The product is glass cullet, but the description is aimed at industrial applications and construction materials, not crafts."
+  },
+  {
+    "product_name": "Washed laminated ribbon cullet (Waste glass cullet)",
+    "score": 3,
+    "rationale": "This is glass cullet, but the description focuses on its industrial properties and origins, not its suitability for crafts."
+  }
+]

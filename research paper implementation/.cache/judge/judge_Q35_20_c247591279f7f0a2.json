@@ -1,0 +1,102 @@
+[
+  {
+    "product_name": "Foil-faced compressed loose fiber bale (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This product is a type of mineral wool insulation, which is commonly used for attics, and is offered in a compressed bale form."
+  },
+  {
+    "product_name": "Dry-packed compressed loose fiber bale (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This product is a type of mineral wool insulation, suitable for attics, and is available as a compressed loose fiber bale."
+  },
+  {
+    "product_name": "Dry-packed 50 mm batt offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This is a mineral wool insulation batt offcut, which is a common form of insulation for attics, though it's an offcut."
+  },
+  {
+    "product_name": "Acoustic-grade 50 mm batt offcut (Mineral wool insulation offcuts)",
+    "score": 3,
+    "rationale": "While it's a mineral wool batt offcut, the 'acoustic-grade' designation suggests it might be optimized for soundproofing rather than general attic insulation."
+  },
+  {
+    "product_name": "Foil-faced pipe section half-shell (Mineral wool insulation offcuts)",
+    "score": 2,
+    "rationale": "This is insulation for pipes, which is not typically used for attic insulation, making it less relevant."
+  },
+  {
+    "product_name": "Rigid-board 50 mm batt offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This is a rigid board batt offcut made of mineral wool, a suitable material for attic insulation, though it's an offcut."
+  },
+  {
+    "product_name": "Dry-packed pipe section half-shell (Mineral wool insulation offcuts)",
+    "score": 2,
+    "rationale": "This insulation is designed for pipes and is therefore not a primary choice for attic insulation."
+  },
+  {
+    "product_name": "Acoustic-grade 100 mm board offcut (Mineral wool insulation offcuts)",
+    "score": 3,
+    "rationale": "This is a mineral wool board offcut, which could be used in an attic, but the 'acoustic-grade' focus might not be ideal for general thermal insulation needs."
+  },
+  {
+    "product_name": "Foil-faced 75 mm slab offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This is a mineral wool slab offcut, a type of insulation that can be used in attics, although it is an offcut."
+  },
+  {
+    "product_name": "Packaging-clean 25 mm board offcut (EPS insulation offcuts)",
+    "score": 3,
+    "rationale": "EPS insulation can be used in attics, but the 'packaging-clean' and offcut nature might imply limitations for this specific application."
+  },
+  {
+    "product_name": "Render-base 25 mm board offcut (EPS insulation offcuts)",
+    "score": 3,
+    "rationale": "EPS insulation boards can be used in attics, but 'render-base' suggests a specific application that might not be ideal for general attic insulation."
+  },
+  {
+    "product_name": "Rigid-board pipe section half-shell (Mineral wool insulation offcuts)",
+    "score": 2,
+    "rationale": "This insulation is specifically shaped for pipes and is therefore not suitable for general attic insulation."
+  },
+  {
+    "product_name": "Render-base 75 mm board offcut (EPS insulation offcuts)",
+    "score": 3,
+    "rationale": "While EPS boards can be used for attic insulation, the 'render-base' designation indicates a specific use case that may not be optimal for general attic insulation."
+  },
+  {
+    "product_name": "Packaging-clean 50 mm board offcut (EPS insulation offcuts)",
+    "score": 3,
+    "rationale": "This EPS insulation board offcut could potentially be used in an attic, but its 'packaging-clean' status and offcut nature might not make it the best fit."
+  },
+  {
+    "product_name": "Acoustic-grade compressed loose fiber bale (Mineral wool insulation offcuts)",
+    "score": 3,
+    "rationale": "While it's a mineral wool product, the 'acoustic-grade' focus suggests it's primarily for sound dampening, not necessarily optimal thermal insulation for an attic."
+  },
+  {
+    "product_name": "Rigid-board compressed loose fiber bale (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This is a mineral wool insulation product in a loose fiber bale form, which is a viable option for attic insulation."
+  },
+  {
+    "product_name": "Foil-faced 50 mm batt offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This is a mineral wool batt offcut with a foil facing, a common type of insulation suitable for attics, though it is an offcut."
+  },
+  {
+    "product_name": "Acoustic-grade 75 mm slab offcut (Mineral wool insulation offcuts)",
+    "score": 3,
+    "rationale": "This mineral wool slab offcut is described as 'acoustic-grade,' which may prioritize sound insulation over thermal insulation for an attic."
+  },
+  {
+    "product_name": "Acoustic-grade pipe section half-shell (Mineral wool insulation offcuts)",
+    "score": 2,
+    "rationale": "This product is specifically designed for insulating pipes and is therefore not relevant for attic insulation."
+  },
+  {
+    "product_name": "Foil-faced 100 mm board offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "This is a mineral wool board offcut with a foil facing, a suitable type of insulation for attics, although it is an offcut."
+  }
+]

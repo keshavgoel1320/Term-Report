@@ -1,0 +1,137 @@
+[
+  {
+    "product_name": "Pin-type stay insulator (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This product is porcelain insulator demolition waste, which is not suitable for a patio."
+  },
+  {
+    "product_name": "Disc-type post insulator fragment (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This product is porcelain insulator demolition waste, which is not suitable for a patio."
+  },
+  {
+    "product_name": "Hardware-free stay insulator (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This product is porcelain insulator demolition waste, which is not suitable for a patio."
+  },
+  {
+    "product_name": "Disc-type pin insulator body (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This product is porcelain insulator demolition waste, which is not suitable for a patio."
+  },
+  {
+    "product_name": "Mortar-scraped corner brick set (Salvaged clay bricks)",
+    "score": 4,
+    "rationale": "Salvaged clay bricks can be used for patios, making this a moderately relevant item."
+  },
+  {
+    "product_name": "Riven-face sill piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Glaze-intact disc insulator shell (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This product is porcelain insulator demolition waste, which is not suitable for a patio."
+  },
+  {
+    "product_name": "Tool-finished jamb piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Anchor-free corner return (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Disc-type stay insulator (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This product is porcelain insulator demolition waste, which is not suitable for a patio."
+  },
+  {
+    "product_name": "Block-out edge paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "Concrete pavers are a common material for patios, making this a highly relevant item."
+  },
+  {
+    "product_name": "Polished-face skirting strip (Terrazzo slab offcuts)",
+    "score": 2,
+    "rationale": "Terrazzo is typically an interior flooring material and not suitable for outdoor patios."
+  },
+  {
+    "product_name": "Woven erosion-control strip (Geotextile offcuts)",
+    "score": 1,
+    "rationale": "Geotextile fabric is used for erosion control and is not a patio material."
+  },
+  {
+    "product_name": "Tool-finished corner return (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Slip-rated floor tile offcut set (Ceramic tile offcuts)",
+    "score": 3,
+    "rationale": "Ceramic tiles can be used for patios, but outdoor suitability and durability would need to be confirmed."
+  },
+  {
+    "product_name": "Permeable rectangular paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "Permeable concrete pavers are specifically designed for outdoor surfaces like patios, making this highly relevant."
+  },
+  {
+    "product_name": "Hand-cleaned wire-cut brick batch (Salvaged clay bricks)",
+    "score": 4,
+    "rationale": "Salvaged clay bricks can be used for patios, making this a moderately relevant item."
+  },
+  {
+    "product_name": "Screened 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "Crushed masonry rubble is typically used as a base layer or fill, not as a finished patio surface."
+  },
+  {
+    "product_name": "Hand-dressed jamb piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Mortar-scraped solid brick batch (Salvaged clay bricks)",
+    "score": 4,
+    "rationale": "Salvaged clay bricks can be used for patios, making this a moderately relevant item."
+  },
+  {
+    "product_name": "Anchor-free coping slab (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Weathered-face eave starter slate (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Roofing slate is designed for roofs and may not be durable or suitable for patio foot traffic."
+  },
+  {
+    "product_name": "Hand-dressed coping slab (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "Sandstone cladding salvage could potentially be used for patio edging or features, but is not a primary patio material."
+  },
+  {
+    "product_name": "Architectural-face solid slab strip (Precast concrete panel offcuts)",
+    "score": 2,
+    "rationale": "Precast concrete panels are typically for walls or structures, not ideal for a patio surface."
+  },
+  {
+    "product_name": "Block-out rectangular paver (Concrete paver rejects)",
+    "score": 5,
+    "rationale": "Concrete pavers are a common material for patios, making this a highly relevant item."
+  },
+  {
+    "product_name": "Weathered-face hip slate piece (Roofing slate salvage)",
+    "score": 2,
+    "rationale": "Roofing slate is designed for roofs and may not be durable or suitable for patio foot traffic."
+  },
+  {
+    "product_name": "Brick-rich rubble fines (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "Crushed masonry rubble is typically used as a base layer or fill, not as a finished patio surface."
+  }
+]

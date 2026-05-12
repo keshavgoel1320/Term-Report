@@ -1,0 +1,92 @@
+[
+  {
+    "product_name": "Hub-ended 150 mm pipe section (Cast iron drainage pipe salvage)",
+    "score": 4,
+    "rationale": "This is a used pipe section specifically for drainage, fitting the user's search for 'drainage pipes used'."
+  },
+  {
+    "product_name": "Gasket-free floor drain body (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "While related to drainage, this is a floor drain body, not a pipe section, making it moderately relevant."
+  },
+  {
+    "product_name": "No-hub bend fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a fitting for drainage pipes, not a pipe itself, making it moderately relevant."
+  },
+  {
+    "product_name": "Shot-cleaned tee fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a fitting for drainage pipes, not a pipe itself, making it moderately relevant."
+  },
+  {
+    "product_name": "Hub-ended floor drain body (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "Similar to other floor drain bodies, this is related to drainage but not a pipe, making it moderately relevant."
+  },
+  {
+    "product_name": "Shot-cleaned 100 mm pipe section (Cast iron drainage pipe salvage)",
+    "score": 4,
+    "rationale": "This is a used pipe section for drainage, fitting the user's search for 'drainage pipes used'."
+  },
+  {
+    "product_name": "Gasket-free 150 mm pipe section (Cast iron drainage pipe salvage)",
+    "score": 4,
+    "rationale": "This is a used pipe section for drainage, fitting the user's search for 'drainage pipes used'."
+  },
+  {
+    "product_name": "Shot-cleaned bend fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a fitting for drainage pipes, not a pipe itself, making it moderately relevant."
+  },
+  {
+    "product_name": "Shot-cleaned floor drain body (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a floor drain body, related to drainage but not a pipe, making it moderately relevant."
+  },
+  {
+    "product_name": "Hub-ended bend fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a fitting for drainage pipes, not a pipe itself, making it moderately relevant."
+  },
+  {
+    "product_name": "Gasket-free 100 mm pipe section (Cast iron drainage pipe salvage)",
+    "score": 4,
+    "rationale": "This is a used pipe section for drainage, fitting the user's search for 'drainage pipes used'."
+  },
+  {
+    "product_name": "Hub-ended 100 mm pipe section (Cast iron drainage pipe salvage)",
+    "score": 4,
+    "rationale": "This is a used pipe section for drainage, fitting the user's search for 'drainage pipes used'."
+  },
+  {
+    "product_name": "Gasket-free tee fitting (Cast iron drainage pipe salvage)",
+    "score": 3,
+    "rationale": "This is a fitting for drainage pipes, not a pipe itself, making it moderately relevant."
+  },
+  {
+    "product_name": "Grate-free sump unit (Polymer concrete drainage channel rejects)",
+    "score": 2,
+    "rationale": "This is a drainage channel component, not a pipe, making it slightly relevant."
+  },
+  {
+    "product_name": "Grate-free 0.5 m channel body (Polymer concrete drainage channel rejects)",
+    "score": 2,
+    "rationale": "This is a drainage channel body, not a pipe, making it slightly relevant."
+  },
+  {
+    "product_name": "No-hub 150 mm pipe section (Cast iron drainage pipe salvage)",
+    "score": 4,
+    "rationale": "This is a used pipe section for drainage, fitting the user's search for 'drainage pipes used'."
+  },
+  {
+    "product_name": "Factory-reject sump unit (Polymer concrete drainage channel rejects)",
+    "score": 2,
+    "rationale": "This is a drainage sump unit, not a pipe, making it slightly relevant."
+  },
+  {
+    "product_name": "Clean trench 160 mm pipe offcut (HDPE pipe offcuts)",
+    "score": 5,
+    "rationale": "This is a used HDPE pipe offcut, which is a type of drainage pipe, making it perfectly relevant."
+  }
+]

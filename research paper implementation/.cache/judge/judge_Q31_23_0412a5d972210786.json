@@ -1,0 +1,117 @@
+[
+  {
+    "product_name": "Jaw-crushed column breakout chunk (Demolition concrete)",
+    "score": 4,
+    "rationale": "This product is crushed concrete, which is a primary component of hardcore, making it highly relevant."
+  },
+  {
+    "product_name": "Rebar-cleaned column breakout chunk (Demolition concrete)",
+    "score": 4,
+    "rationale": "This product is crushed concrete, suitable for use as hardcore, with rebar removed for cleaner material."
+  },
+  {
+    "product_name": "Jaw-crushed slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "This is crushed concrete, a suitable material for hardcore fill."
+  },
+  {
+    "product_name": "Screened 40 mm subbase blend (Demolition concrete)",
+    "score": 4,
+    "rationale": "This screened concrete blend is suitable for subbase applications, which often utilize hardcore."
+  },
+  {
+    "product_name": "Low-chloride column breakout chunk (Demolition concrete)",
+    "score": 4,
+    "rationale": "This is crushed concrete, a suitable material for hardcore, with the added benefit of being low-chloride."
+  },
+  {
+    "product_name": "Low-chloride crusher fines (Demolition concrete)",
+    "score": 3,
+    "rationale": "Crusher fines are a byproduct of crushing concrete, and while they can be part of hardcore, they are not the primary component."
+  },
+  {
+    "product_name": "Low-chloride slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "This is crushed concrete, suitable for hardcore, with the benefit of being low-chloride."
+  },
+  {
+    "product_name": "Jaw-crushed 20 mm aggregate (Demolition concrete)",
+    "score": 4,
+    "rationale": "This crushed concrete aggregate is a suitable size and type for use as hardcore."
+  },
+  {
+    "product_name": "Screened slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "This screened concrete block is suitable for use as hardcore fill."
+  },
+  {
+    "product_name": "Rebar-cleaned 40 mm subbase blend (Demolition concrete)",
+    "score": 4,
+    "rationale": "This screened concrete blend is suitable for subbase, often made from hardcore material."
+  },
+  {
+    "product_name": "Screened column breakout chunk (Demolition concrete)",
+    "score": 4,
+    "rationale": "This screened concrete chunk is suitable for use as hardcore."
+  },
+  {
+    "product_name": "Color-mix cobble-format paver (Concrete paver rejects)",
+    "score": 1,
+    "rationale": "Pavers are finished products and not suitable for use as hardcore fill."
+  },
+  {
+    "product_name": "Permeable permeable spacer paver (Concrete paver rejects)",
+    "score": 1,
+    "rationale": "Pavers are finished products and not suitable for use as hardcore fill."
+  },
+  {
+    "product_name": "Color-mix permeable spacer paver (Concrete paver rejects)",
+    "score": 1,
+    "rationale": "Pavers are finished products and not suitable for use as hardcore fill."
+  },
+  {
+    "product_name": "Block-rich gabion-grade chunks (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "While this contains some concrete, it is primarily brick rubble, making it less ideal than pure crushed concrete for hardcore."
+  },
+  {
+    "product_name": "Block-rich 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This blend contains brick and concrete mortar residue, which is less ideal than pure crushed concrete for hardcore."
+  },
+  {
+    "product_name": "Fines-controlled mixed masonry block (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This contains brick and concrete mortar residue, making it a less direct match for 'broken concrete for hardcore'."
+  },
+  {
+    "product_name": "Jaw-crushed 40 mm subbase blend (Demolition concrete)",
+    "score": 4,
+    "rationale": "This crushed concrete blend is suitable for subbase applications, which often utilize hardcore."
+  },
+  {
+    "product_name": "Brick-rich mixed masonry block (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "This product is primarily brick rubble, not broken concrete, making it only slightly relevant."
+  },
+  {
+    "product_name": "Screened 20 mm aggregate (Demolition concrete)",
+    "score": 4,
+    "rationale": "This screened concrete aggregate is a suitable size and type for use as hardcore."
+  },
+  {
+    "product_name": "Screened 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This blend contains brick and concrete mortar residue, making it less ideal than pure crushed concrete for hardcore."
+  },
+  {
+    "product_name": "Screened gabion-grade chunks (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This contains brick and concrete mortar residue, making it less ideal than pure crushed concrete for hardcore."
+  },
+  {
+    "product_name": "Rebar-cleaned slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "This is crushed concrete, suitable for use as hardcore, with rebar removed for cleaner material."
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "product_name": "Low-chloride slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "This product is a recycled concrete block, directly matching the user's search for 'recycled concrete blocks'."
+  },
+  {
+    "product_name": "Rebar-cleaned 40 mm subbase blend (Demolition concrete)",
+    "score": 2,
+    "rationale": "This is a concrete aggregate blend, not a block, making it less relevant to the user's specific request for blocks."
+  },
+  {
+    "product_name": "Jaw-crushed 20 mm aggregate (Demolition concrete)",
+    "score": 2,
+    "rationale": "This is a crushed aggregate, not a block, and therefore not a direct match for the user's search."
+  },
+  {
+    "product_name": "Rebar-cleaned 20 mm aggregate (Demolition concrete)",
+    "score": 2,
+    "rationale": "This is a concrete aggregate, not a block, which is not what the user is looking for."
+  },
+  {
+    "product_name": "Block-rich 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "While it contains concrete and is a blend, it's described as rubble and not specifically 'recycled concrete blocks'."
+  },
+  {
+    "product_name": "Anchor-free hollow-core strip (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "This is a concrete panel offcut, not a block, and its description as a 'strip' makes it a less direct match."
+  },
+  {
+    "product_name": "Low-chloride 20 mm aggregate (Demolition concrete)",
+    "score": 2,
+    "rationale": "This is a concrete aggregate, not a block, so it doesn't fit the user's specific need."
+  },
+  {
+    "product_name": "Jaw-crushed crusher fines (Demolition concrete)",
+    "score": 2,
+    "rationale": "These are concrete fines, not blocks, making them irrelevant to the user's search."
+  },
+  {
+    "product_name": "Rebar-located façade panel offcut (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "This is a concrete panel offcut, not a block, and is therefore only moderately relevant."
+  },
+  {
+    "product_name": "Fines-controlled mixed masonry block (Crushed masonry rubble)",
+    "score": 4,
+    "rationale": "This product is described as a 'block' and is made from crushed masonry which often includes concrete, making it highly relevant."
+  },
+  {
+    "product_name": "Screened 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This is a rubble blend, not specifically a block, and its composition is mixed masonry, making it moderately relevant."
+  },
+  {
+    "product_name": "Flamed dropped curb block (Granite curb stone salvage)",
+    "score": 1,
+    "rationale": "This product is made of granite, not concrete, making it completely irrelevant to the user's search."
+  },
+  {
+    "product_name": "Saw-cut façade panel offcut (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "This is a concrete panel offcut, not a block, and is therefore only moderately relevant."
+  },
+  {
+    "product_name": "Grate-free end cap block (Polymer concrete drainage channel rejects)",
+    "score": 3,
+    "rationale": "While it is a 'block', it is made of polymer concrete, not standard concrete, making it moderately relevant."
+  },
+  {
+    "product_name": "Architectural-face hollow-core strip (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "This is a concrete panel offcut, not a block, and its description as a 'strip' makes it a less direct match."
+  },
+  {
+    "product_name": "Screened column breakout chunk (Demolition concrete)",
+    "score": 4,
+    "rationale": "This is a chunk of demolition concrete which could be used as a block, making it highly relevant."
+  },
+  {
+    "product_name": "Rebar-located spandrel edge segment (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "This is a concrete panel offcut, not a block, and is therefore only moderately relevant."
+  },
+  {
+    "product_name": "Saw-cut solid slab strip (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "This is a concrete panel offcut, not a block, and its description as a 'strip' makes it a less direct match."
+  },
+  {
+    "product_name": "Rebar-cleaned slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "This product is a recycled concrete block, directly matching the user's search for 'recycled concrete blocks'."
+  }
+]

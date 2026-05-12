@@ -1,0 +1,147 @@
+[
+  {
+    "product_name": "Shot-blasted plate offcut (Scrap structural steel)",
+    "score": 3,
+    "rationale": "This is scrap structural steel, which could be used as a building material, but the 'scrap' aspect implies it might not be ideal for all construction needs and the 'budget' aspect is not explicitly addressed."
+  },
+  {
+    "product_name": "SBS modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This is roofing felt waste, which is a building material, but it's a waste product and not typically what someone looking for 'building materials on a budget' would seek for general construction."
+  },
+  {
+    "product_name": "Square-edge access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "APP modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This is roofing felt waste, which is a building material, but it's a waste product and not typically what someone looking for 'building materials on a budget' would seek for general construction."
+  },
+  {
+    "product_name": "Torch-on parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This is roofing felt waste, which is a building material, but it's a waste product and not typically what someone looking for 'building materials on a budget' would seek for general construction."
+  },
+  {
+    "product_name": "Granule-faced underlay offcut (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This is roofing felt waste, which is a building material, but it's a waste product and not typically what someone looking for 'building materials on a budget' would seek for general construction."
+  },
+  {
+    "product_name": "Square-edge 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "Low-stain border strip (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "Grid-clean 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "Torch-on patch repair piece (Bituminous roofing felt waste)",
+    "score": 2,
+    "rationale": "This is roofing felt waste, which is a building material, but it's a waste product and not typically what someone looking for 'building materials on a budget' would seek for general construction."
+  },
+  {
+    "product_name": "Acoustic-grade compressed loose fiber bale (Mineral wool insulation offcuts)",
+    "score": 3,
+    "rationale": "This is insulation material, which is a building component, but it's described as offcuts and waste, and its primary function is insulation rather than general construction."
+  },
+  {
+    "product_name": "Low-stain 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "Hand-riven eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Salvaged roofing slate is a building material that can be acquired at a lower cost, fitting the 'budget' aspect, and is suitable for roofing applications."
+  },
+  {
+    "product_name": "Dry-packed 100 mm board offcut (Mineral wool insulation offcuts)",
+    "score": 3,
+    "rationale": "This is insulation material, which is a building component, but it's described as offcuts and waste, and its primary function is insulation rather than general construction."
+  },
+  {
+    "product_name": "Weathered-face ridge slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Salvaged roofing slate is a building material that can be acquired at a lower cost, fitting the 'budget' aspect, and is suitable for roofing applications."
+  },
+  {
+    "product_name": "Screened 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed masonry rubble can be used as a budget-friendly aggregate or fill material in construction, but it's not a primary building material for visible structures."
+  },
+  {
+    "product_name": "Fines-controlled 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed masonry rubble can be used as a budget-friendly aggregate or fill material in construction, but it's not a primary building material for visible structures."
+  },
+  {
+    "product_name": "Grid-clean 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "Square-edge 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 2,
+    "rationale": "This is waste from ceiling tiles, which are building materials, but it's a waste product and unlikely to be suitable for general construction needs."
+  },
+  {
+    "product_name": "Screened slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "Saw-cut concrete blocks from demolition can be reused as building materials, potentially at a lower cost, fitting the 'budget' aspect."
+  },
+  {
+    "product_name": "Rebar-cleaned slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "Saw-cut concrete blocks from demolition can be reused as building materials, potentially at a lower cost, fitting the 'budget' aspect."
+  },
+  {
+    "product_name": "Band-sawn joist section (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber joists are structural building materials that can be acquired at a lower cost, directly addressing 'building materials on a budget'."
+  },
+  {
+    "product_name": "Rebar-cleaned 40 mm subbase blend (Demolition concrete)",
+    "score": 3,
+    "rationale": "This concrete blend can be used as a subbase material in construction, which is a budget-friendly application, but not a primary building material."
+  },
+  {
+    "product_name": "Jaw-crushed slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "Crushed concrete blocks from demolition can be reused as building materials, potentially at a lower cost, fitting the 'budget' aspect."
+  },
+  {
+    "product_name": "Rebar-cleaned crusher fines (Demolition concrete)",
+    "score": 3,
+    "rationale": "Crusher fines from concrete can be used as a budget-friendly aggregate or fill material in construction, but it's not a primary building material for visible structures."
+  },
+  {
+    "product_name": "Joinery-grade plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber plank boards are versatile building materials that can be acquired at a lower cost, directly addressing 'building materials on a budget'."
+  },
+  {
+    "product_name": "Joinery-grade post section (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber posts are structural building materials that can be acquired at a lower cost, directly addressing 'building materials on a budget'."
+  },
+  {
+    "product_name": "Kiln-dried sal beam (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber beams are structural building materials that can be acquired at a lower cost, directly addressing 'building materials on a budget'."
+  },
+  {
+    "product_name": "Low-chloride slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "Saw-cut concrete blocks from demolition can be reused as building materials, potentially at a lower cost, fitting the 'budget' aspect."
+  }
+]

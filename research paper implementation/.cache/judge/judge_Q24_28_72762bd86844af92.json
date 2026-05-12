@@ -1,0 +1,142 @@
+[
+  {
+    "product_name": "Nonwoven roll strip (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile offcuts can be used outdoors for erosion control or drainage, making them moderately relevant."
+  },
+  {
+    "product_name": "Woven roll strip (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile offcuts can be used outdoors for landscaping and civil works, making them moderately relevant."
+  },
+  {
+    "product_name": "Woven sheet remnant (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile offcuts are suitable for outdoor applications like erosion control, offering moderate relevance."
+  },
+  {
+    "product_name": "Separator-grade erosion-control strip (Geotextile offcuts)",
+    "score": 4,
+    "rationale": "This product is specifically designed for erosion control, a common outdoor use, making it highly relevant."
+  },
+  {
+    "product_name": "Needle-punched drainage wrap blank (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile for drainage can be used outdoors, providing moderate relevance for outdoor projects."
+  },
+  {
+    "product_name": "Granulated earthing conductor coil (Copper cable scrap)",
+    "score": 1,
+    "rationale": "Copper cable scrap is not typically considered 'good stuff for outdoor use' in a general sense."
+  },
+  {
+    "product_name": "Separator-grade drainage wrap blank (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile for drainage is useful in outdoor landscaping and construction, making it moderately relevant."
+  },
+  {
+    "product_name": "Torch-on membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "Bituminous roofing felt is designed for outdoor weatherproofing, making it moderately relevant for certain outdoor applications."
+  },
+  {
+    "product_name": "Needle-punched sheet remnant (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile remnants can be used for various outdoor purposes like ground stabilization, offering moderate relevance."
+  },
+  {
+    "product_name": "Needle-punched erosion-control strip (Geotextile offcuts)",
+    "score": 4,
+    "rationale": "This geotextile is specifically for erosion control, a direct outdoor application, making it highly relevant."
+  },
+  {
+    "product_name": "Woven silt fence insert (Geotextile offcuts)",
+    "score": 4,
+    "rationale": "Silt fence inserts are used outdoors for environmental control during construction, making them highly relevant."
+  },
+  {
+    "product_name": "Edge-sound 1 m channel body (Polymer concrete drainage channel rejects)",
+    "score": 4,
+    "rationale": "Drainage channels are essential outdoor infrastructure, making these rejects highly relevant for outdoor use."
+  },
+  {
+    "product_name": "Nonwoven sheet remnant (Geotextile offcuts)",
+    "score": 3,
+    "rationale": "Geotextile remnants can serve various outdoor functions such as landscaping or ground stabilization, providing moderate relevance."
+  },
+  {
+    "product_name": "Co-extruded starter board strip (Wood-plastic composite decking offcuts)",
+    "score": 5,
+    "rationale": "Wood-plastic composite decking is specifically designed for outdoor use, making these offcuts perfectly relevant."
+  },
+  {
+    "product_name": "Co-extruded deck board offcut (Wood-plastic composite decking offcuts)",
+    "score": 5,
+    "rationale": "Wood-plastic composite decking is intended for outdoor environments, making these offcuts perfectly relevant."
+  },
+  {
+    "product_name": "Hollow-core screen slat offcut (Wood-plastic composite decking offcuts)",
+    "score": 5,
+    "rationale": "Wood-plastic composite materials are suitable for outdoor applications like decking or screening, making these offcuts perfectly relevant."
+  },
+  {
+    "product_name": "Embossed-face stair nosing blank (Wood-plastic composite decking offcuts)",
+    "score": 5,
+    "rationale": "Stair nosings made from wood-plastic composite are used outdoors, making these offcuts perfectly relevant."
+  },
+  {
+    "product_name": "SBS modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "Bituminous roofing felt is used for outdoor weatherproofing, making it moderately relevant for outdoor construction needs."
+  },
+  {
+    "product_name": "Fines-controlled mixed masonry block (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed masonry rubble can be used for outdoor landscaping or fill, making it moderately relevant."
+  },
+  {
+    "product_name": "Screened 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed masonry rubble is suitable for outdoor base layers or fill, offering moderate relevance."
+  },
+  {
+    "product_name": "Block-rich 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This type of rubble can be used for outdoor landscaping or drainage applications, making it moderately relevant."
+  },
+  {
+    "product_name": "Brick-rich mixed masonry block (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed masonry can be used in outdoor projects like pathways or fill, providing moderate relevance."
+  },
+  {
+    "product_name": "Screened gabion-grade chunks (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Gabion-grade chunks are often used in outdoor landscaping and erosion control, making them moderately relevant."
+  },
+  {
+    "product_name": "Fines-controlled 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed rubble can be used for outdoor fill or sub-base material, offering moderate relevance."
+  },
+  {
+    "product_name": "Fines-controlled rubble fines (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "Rubble fines might have limited direct outdoor use beyond fill, making them slightly relevant."
+  },
+  {
+    "product_name": "Rebar-cleaned slab saw-cut block (Demolition concrete)",
+    "score": 3,
+    "rationale": "Demolition concrete can be repurposed for outdoor fill or aggregate, making it moderately relevant."
+  },
+  {
+    "product_name": "Block-rich 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "This rubble blend is suitable for outdoor landscaping or as a base material, offering moderate relevance."
+  },
+  {
+    "product_name": "Brick-rich 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed masonry rubble can be used for outdoor landscaping or fill applications, making it moderately relevant."
+  }
+]

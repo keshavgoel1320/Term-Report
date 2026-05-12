@@ -1,0 +1,132 @@
+[
+  {
+    "product_name": "Brushed-finish countertop strip (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "This is stainless steel scrap, not tiles, and is not suitable for kitchen tiling."
+  },
+  {
+    "product_name": "Grid-clean 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Square-edge access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Square-edge 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Low-stain border strip (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Grid-clean service tile remnant (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Tegular-edge service tile remnant (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Tegular-edge 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Glaze-intact wall tile strip set (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These are ceramic wall tile offcuts which could be used for a kitchen backsplash or accent."
+  },
+  {
+    "product_name": "Edge-trimmed floor tile offcut set (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These are ceramic floor tile offcuts which could be used for a kitchen floor."
+  },
+  {
+    "product_name": "Grid-clean 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Low-stain 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Slip-rated mosaic trim batch (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic mosaic tiles could be used for a kitchen backsplash or decorative element."
+  },
+  {
+    "product_name": "Polished-face wall tile strip set (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic wall tile offcuts could be used for a kitchen backsplash or accent."
+  },
+  {
+    "product_name": "Glaze-intact floor tile offcut set (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic floor tile offcuts could be used for a kitchen floor."
+  },
+  {
+    "product_name": "Square-edge border strip (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Low-stain 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 1,
+    "rationale": "These are mineral fiber ceiling tiles, not suitable for kitchen walls or floors."
+  },
+  {
+    "product_name": "Edge-trimmed wall tile strip set (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic wall tile offcuts could be used for a kitchen backsplash or accent."
+  },
+  {
+    "product_name": "Laser-cut perforated sheet remnant (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "This is stainless steel scrap, not tiles, and is not suitable for kitchen tiling."
+  },
+  {
+    "product_name": "Slip-rated large-format slab offcut (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic slab offcuts could be used for a kitchen floor or countertop."
+  },
+  {
+    "product_name": "Polished-face large-format slab offcut (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic slab offcuts could be used for a kitchen floor or countertop."
+  },
+  {
+    "product_name": "Edge-trimmed mosaic trim batch (Ceramic tile offcuts)",
+    "score": 4,
+    "rationale": "These ceramic mosaic tiles could be used for a kitchen backsplash or decorative element."
+  },
+  {
+    "product_name": "Polished-face stair nosing cutout (Ceramic tile offcuts)",
+    "score": 3,
+    "rationale": "While ceramic, these are specifically stair nosings and may not be ideal for general kitchen tiling."
+  },
+  {
+    "product_name": "Brushed-finish sheet offcut (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "This is stainless steel scrap, not tiles, and is not suitable for kitchen tiling."
+  },
+  {
+    "product_name": "Hardware-free porcelain shard batch (Porcelain insulator demolition waste)",
+    "score": 1,
+    "rationale": "This is electrical porcelain waste, not suitable for kitchen tiling."
+  },
+  {
+    "product_name": "316-grade kick-plate blank (Stainless steel sheet scrap)",
+    "score": 1,
+    "rationale": "This is stainless steel scrap, not tiles, and is not suitable for kitchen tiling."
+  }
+]

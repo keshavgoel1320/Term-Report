@@ -1,0 +1,92 @@
+[
+  {
+    "product_name": "Band-sawn plank board (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This product is reclaimed timber in plank form, which is suitable for furniture making."
+  },
+  {
+    "product_name": "Joinery-grade tongue-and-groove strip (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This reclaimed timber is described as joinery-grade and made of teak, making it suitable for furniture."
+  },
+  {
+    "product_name": "Kiln-dried joist section (Reclaimed timber)",
+    "score": 3,
+    "rationale": "While reclaimed timber, joist sections may not be ideal for furniture without significant processing."
+  },
+  {
+    "product_name": "Joinery-grade post section (Reclaimed timber)",
+    "score": 4,
+    "rationale": "This joinery-grade reclaimed timber post section could be used for furniture frames or larger pieces."
+  },
+  {
+    "product_name": "Joinery-grade joist section (Reclaimed timber)",
+    "score": 3,
+    "rationale": "Joist sections are typically structural and may require significant work to be suitable for furniture."
+  },
+  {
+    "product_name": "Band-sawn joist section (Reclaimed timber)",
+    "score": 3,
+    "rationale": "Joist sections are generally not the primary form of timber used for furniture, though they could be repurposed."
+  },
+  {
+    "product_name": "De-nailed sal beam (Reclaimed timber)",
+    "score": 4,
+    "rationale": "De-nailed beams, especially of hardwood like sal, can be excellent for furniture making if processed."
+  },
+  {
+    "product_name": "De-nailed plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "De-nailed plank boards are ideal for furniture making as they are ready for use and can be cut to size."
+  },
+  {
+    "product_name": "Kiln-dried plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Kiln-dried plank boards are perfectly suited for furniture making due to their stability and usability."
+  },
+  {
+    "product_name": "Band-sawn post section (Reclaimed timber)",
+    "score": 3,
+    "rationale": "Post sections are less common for furniture than planks, but could be used for specific designs."
+  },
+  {
+    "product_name": "End-banded toe-board plank (Timber scaffold plank salvage)",
+    "score": 2,
+    "rationale": "Scaffold planks are typically treated for outdoor use and may not be ideal for indoor furniture without significant processing."
+  },
+  {
+    "product_name": "Load-mark legacy short bearer plank (Timber scaffold plank salvage)",
+    "score": 2,
+    "rationale": "Scaffold planks are generally not intended for furniture and may have treatments or wear unsuitable for this purpose."
+  },
+  {
+    "product_name": "Band-marked scaffold plank (Timber scaffold plank salvage)",
+    "score": 2,
+    "rationale": "Scaffold planks are primarily structural and may not be aesthetically or practically suitable for furniture."
+  },
+  {
+    "product_name": "De-nailed scaffold plank (Timber scaffold plank salvage)",
+    "score": 3,
+    "rationale": "While de-nailed, scaffold planks are still primarily for construction and may require significant work for furniture."
+  },
+  {
+    "product_name": "Load-mark legacy deck infill board (Timber scaffold plank salvage)",
+    "score": 2,
+    "rationale": "These boards are from scaffolding and likely not suitable for furniture due to their original use and potential treatments."
+  },
+  {
+    "product_name": "Kiln-dried sal beam (Reclaimed timber)",
+    "score": 4,
+    "rationale": "Kiln-dried sal beams are a good source of hardwood that can be processed into furniture components."
+  },
+  {
+    "product_name": "Band-marked cleated ramp board (Timber scaffold plank salvage)",
+    "score": 1,
+    "rationale": "Ramp boards are highly specialized and unlikely to be suitable for general furniture making."
+  },
+  {
+    "product_name": "End-banded scaffold plank (Timber scaffold plank salvage)",
+    "score": 2,
+    "rationale": "Scaffold planks are generally not suitable for furniture due to their intended use and potential treatments."
+  }
+]

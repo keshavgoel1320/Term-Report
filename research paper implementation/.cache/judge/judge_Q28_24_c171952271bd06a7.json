@@ -1,0 +1,122 @@
+[
+  {
+    "product_name": "PVC-jacketed single-core cable bundle (Copper cable scrap)",
+    "score": 1,
+    "rationale": "This product is copper cable scrap, which is not typically used for structural purposes in construction."
+  },
+  {
+    "product_name": "304-grade perforated sheet remnant (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "While stainless steel can be used structurally, sheet scrap is less likely to be a primary structural component compared to beams or bars."
+  },
+  {
+    "product_name": "316-grade cladding return piece (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "Similar to other sheet scrap, this stainless steel is less likely to be a primary structural element for buildings."
+  },
+  {
+    "product_name": "Laser-cut sheet offcut (Stainless steel sheet scrap)",
+    "score": 3,
+    "rationale": "Sheet offcuts are generally not suitable for primary structural applications in construction."
+  },
+  {
+    "product_name": "Hardware-prepped door frame head (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "While made of steel, door frames are not typically considered primary structural elements for buildings."
+  },
+  {
+    "product_name": "Frame-set double-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "Steel doors are components of a building, not typically used as raw recycled metal for structural purposes."
+  },
+  {
+    "product_name": "Frame-set louver panel (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "Louver panels are building components and not typically used as raw recycled metal for structural applications."
+  },
+  {
+    "product_name": "Vision-panel single-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "Steel doors are building components, not raw recycled metal intended for structural use."
+  },
+  {
+    "product_name": "Pressed-skin door frame head (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "Door frames are not typically considered primary structural elements for buildings, even when made of steel."
+  },
+  {
+    "product_name": "Hardware-prepped double-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "Steel doors are building components and not typically used as raw recycled metal for structural purposes."
+  },
+  {
+    "product_name": "48.3 mm OD 2 m tube (Steel scaffold tube scrap)",
+    "score": 4,
+    "rationale": "Scaffold tubes are made of steel and have structural applications, making this a relevant recycled metal source."
+  },
+  {
+    "product_name": "Paint-stripped channel member (Scrap structural steel)",
+    "score": 5,
+    "rationale": "This is explicitly described as 'Scrap structural steel' and is a channel member, which is a common structural component."
+  },
+  {
+    "product_name": "Cut-to-length UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "UB beams are a standard structural steel product, making this a highly relevant recycled material for construction."
+  },
+  {
+    "product_name": "Cut-to-length angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "Angle sections are common structural steel components, making this recycled material highly relevant."
+  },
+  {
+    "product_name": "Bolt-hole verified angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "Angle sections are common structural steel components, making this recycled material highly relevant."
+  },
+  {
+    "product_name": "Shot-blasted plate offcut (Scrap structural steel)",
+    "score": 4,
+    "rationale": "Steel plate can be used in structural applications, and this is identified as structural steel scrap."
+  },
+  {
+    "product_name": "Bolt-hole verified UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "UB beams are a standard structural steel product, making this a highly relevant recycled material for construction."
+  },
+  {
+    "product_name": "Bend-recovered 8 mm bar bundle (Rebar offcuts)",
+    "score": 4,
+    "rationale": "Rebar is used for reinforcing concrete structures, making these offcuts relevant recycled metal for construction."
+  },
+  {
+    "product_name": "Rib-cleaned slab panel (Aluminum formwork scrap)",
+    "score": 2,
+    "rationale": "Aluminum formwork is used in construction but is not typically considered 'recycled metal for structure' in the same way as steel beams or rebar."
+  },
+  {
+    "product_name": "Cut-to-length hollow section stub (Scrap structural steel)",
+    "score": 5,
+    "rationale": "Hollow sections are used in structural applications, and this is identified as structural steel scrap."
+  },
+  {
+    "product_name": "Shot-blasted UB beam section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "UB beams are a standard structural steel product, making this a highly relevant recycled material for construction."
+  },
+  {
+    "product_name": "Cut-to-length channel member (Scrap structural steel)",
+    "score": 5,
+    "rationale": "Channel members are common structural steel components, making this recycled material highly relevant."
+  },
+  {
+    "product_name": "Bolt-hole verified hollow section stub (Scrap structural steel)",
+    "score": 5,
+    "rationale": "Hollow sections are used in structural applications, and this is identified as structural steel scrap."
+  },
+  {
+    "product_name": "Paint-stripped angle section (Scrap structural steel)",
+    "score": 5,
+    "rationale": "Angle sections are common structural steel components, making this recycled material highly relevant."
+  }
+]

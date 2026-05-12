@@ -1,0 +1,107 @@
+[
+  {
+    "product_name": "Louvered wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While it is a door, it is specified as a wardrobe shutter, which may not be suitable for an exterior shed."
+  },
+  {
+    "product_name": "Frame-ready door frame leg (Reclaimed hardwood doors)",
+    "score": 1,
+    "rationale": "This is a door frame component, not a complete door suitable for a shed."
+  },
+  {
+    "product_name": "Frame-ready double-leaf door (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a double-leaf door made of reclaimed hardwood, which could be suitable for a shed, though 'frame-ready' might imply it needs further work."
+  },
+  {
+    "product_name": "Panelled door frame leg (Reclaimed hardwood doors)",
+    "score": 1,
+    "rationale": "This is a door frame component, not a complete door suitable for a shed."
+  },
+  {
+    "product_name": "Louvered single-leaf door (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a single-leaf door made of reclaimed hardwood, which is a good candidate for a shed door."
+  },
+  {
+    "product_name": "Granule-faced underlay offcut (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This is roofing felt waste and completely irrelevant to the search for doors."
+  },
+  {
+    "product_name": "Panelled double-leaf door (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a double-leaf door made of reclaimed hardwood, which could be suitable for a shed."
+  },
+  {
+    "product_name": "Frame-ready wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While it is a door, it is specified as a wardrobe shutter, which may not be suitable for an exterior shed."
+  },
+  {
+    "product_name": "SBS modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 1,
+    "rationale": "This is roofing felt waste and completely irrelevant to the search for doors."
+  },
+  {
+    "product_name": "Panelled wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While it is a door, it is specified as a wardrobe shutter, which may not be suitable for an exterior shed."
+  },
+  {
+    "product_name": "Flush-core solid double-leaf door (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a solid double-leaf door made of reclaimed hardwood, which is a good candidate for a shed door."
+  },
+  {
+    "product_name": "Louvered double-leaf door (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a double-leaf door made of reclaimed hardwood, which could be suitable for a shed, though louvers might not be ideal for weatherproofing."
+  },
+  {
+    "product_name": "Flush-core solid wardrobe shutter (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "While it is a door, it is specified as a wardrobe shutter, which may not be suitable for an exterior shed."
+  },
+  {
+    "product_name": "Frame-ready toilet door leaf (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "This is a door leaf, likely for an interior toilet door, and may not be suitable or complete enough for a shed."
+  },
+  {
+    "product_name": "Hardware-prepped double-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "This is a steel door, which could be durable for a shed, but 'hardware-prepped' and 'hollow metal' might not be the typical aesthetic or material desired for a shed."
+  },
+  {
+    "product_name": "Vision-panel double-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "This is a steel door, which could be durable for a shed, but the vision panel might not be desired, and it's a double-leaf."
+  },
+  {
+    "product_name": "Frame-set double-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "This is a steel door, which could be durable for a shed, but 'frame-set' and 'double-leaf' might not be ideal, and steel may not be the typical choice."
+  },
+  {
+    "product_name": "Louvered toilet door leaf (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "This is a door leaf, likely for an interior toilet door, and may not be suitable or complete enough for a shed."
+  },
+  {
+    "product_name": "Panelled toilet door leaf (Reclaimed hardwood doors)",
+    "score": 3,
+    "rationale": "This is a door leaf, likely for an interior toilet door, and may not be suitable or complete enough for a shed."
+  },
+  {
+    "product_name": "Pressed-skin single-leaf steel door (Hollow metal door salvage)",
+    "score": 3,
+    "rationale": "This is a steel door, which could be durable for a shed, but steel might not be the typical material desired for a shed."
+  },
+  {
+    "product_name": "Panelled single-leaf door (Reclaimed hardwood doors)",
+    "score": 4,
+    "rationale": "This is a single-leaf door made of reclaimed hardwood, which is a good candidate for a shed door."
+  }
+]

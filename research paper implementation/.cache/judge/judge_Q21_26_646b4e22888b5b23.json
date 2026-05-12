@@ -1,0 +1,132 @@
+[
+  {
+    "product_name": "Bolt-hole verified UB beam section (Scrap structural steel)",
+    "score": 3,
+    "rationale": "While structural steel can be a component of buildings, it's not inherently 'eco-friendly' unless specified as recycled or sustainably sourced, which is implied but not explicit."
+  },
+  {
+    "product_name": "Cut-to-length hollow section stub (Scrap structural steel)",
+    "score": 3,
+    "rationale": "Similar to the UB beam, this is structural steel, which can be eco-friendly if recycled, but the description doesn't explicitly highlight its eco-friendly attributes."
+  },
+  {
+    "product_name": "Square-edge access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "Mineral fiber ceiling tiles are often made with recycled content and are a waste product, making them a moderately eco-friendly building material option."
+  },
+  {
+    "product_name": "Square-edge 600 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "This is waste material from ceiling tiles, which aligns with the 'eco-friendly' aspect by promoting reuse and waste reduction."
+  },
+  {
+    "product_name": "Grid-clean 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "As waste mineral fiber ceiling tiles, these contribute to eco-friendly building practices by diverting waste from landfills."
+  },
+  {
+    "product_name": "SBS modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "While it's a waste product, bituminous roofing felt is not typically considered a primary 'eco-friendly building material' in the same vein as natural or highly recycled options."
+  },
+  {
+    "product_name": "Grid-clean service tile remnant (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "This is a waste product from ceiling tiles, fitting the user's interest in eco-friendly materials through waste diversion and reuse."
+  },
+  {
+    "product_name": "SBS modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "Similar to the membrane remnant, this is a waste product but not a material typically sought for its inherent eco-friendly properties."
+  },
+  {
+    "product_name": "Low-stain border strip (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "This waste material from ceiling tiles aligns with eco-friendly building by promoting reuse and reducing landfill waste."
+  },
+  {
+    "product_name": "Granule-faced membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product from roofing, which has some eco-friendly aspects in reuse, but the material itself isn't a primary eco-friendly building material."
+  },
+  {
+    "product_name": "Low-stain access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "This waste material from ceiling tiles is relevant to eco-friendly building due to its potential for reuse and waste reduction."
+  },
+  {
+    "product_name": "Low-paint board core granules (Recycled gypsum board)",
+    "score": 5,
+    "rationale": "Recycled gypsum board is explicitly a recycled material, making it a highly relevant eco-friendly building material."
+  },
+  {
+    "product_name": "Low-stain 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 4,
+    "rationale": "As waste mineral fiber ceiling tiles, these are relevant to eco-friendly building by offering a recycled or reused material option."
+  },
+  {
+    "product_name": "Rigid-board 100 mm board offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "Mineral wool insulation is often made with recycled content and is known for its thermal performance, contributing to energy efficiency, a key aspect of eco-friendly building."
+  },
+  {
+    "product_name": "Board-trim laminated board segment (Recycled gypsum board)",
+    "score": 5,
+    "rationale": "This is a recycled gypsum board product, directly fitting the user's search for eco-friendly building materials."
+  },
+  {
+    "product_name": "Dry-packed 100 mm board offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "Mineral wool insulation offcuts are relevant as they represent a potentially recycled or reused material that contributes to energy efficiency."
+  },
+  {
+    "product_name": "Hand-riven roof slate tile (Roofing slate salvage)",
+    "score": 5,
+    "rationale": "Salvaged natural materials like slate are inherently eco-friendly due to their durability and low embodied energy when reused."
+  },
+  {
+    "product_name": "Low-paint trim strip bundle (Recycled gypsum board)",
+    "score": 5,
+    "rationale": "This is a recycled gypsum board product, making it a perfect match for the user's search for eco-friendly building materials."
+  },
+  {
+    "product_name": "Hand-riven eave starter slate (Roofing slate salvage)",
+    "score": 5,
+    "rationale": "Salvaged roofing slate is an excellent example of an eco-friendly building material due to its natural origin and potential for reuse."
+  },
+  {
+    "product_name": "Granular rammed earth candidate lot (Excavation soil spoil)",
+    "score": 4,
+    "rationale": "Rammed earth is a sustainable building material, and using excavation spoil for it aligns with eco-friendly practices by utilizing waste material."
+  },
+  {
+    "product_name": "Facade-grade corner brick set (Salvaged clay bricks)",
+    "score": 5,
+    "rationale": "Salvaged clay bricks are a prime example of eco-friendly building materials, promoting reuse and reducing the need for new production."
+  },
+  {
+    "product_name": "Facade-grade coping brick set (Salvaged clay bricks)",
+    "score": 5,
+    "rationale": "Salvaged bricks are highly relevant as they represent a sustainable and eco-friendly building material choice through reuse."
+  },
+  {
+    "product_name": "Kiln-sound corner brick set (Salvaged clay bricks)",
+    "score": 5,
+    "rationale": "Salvaged clay bricks are a perfect fit for 'eco-friendly building material' searches due to their reusable nature and reduced environmental impact."
+  },
+  {
+    "product_name": "Low-paint laminated board segment (Recycled gypsum board)",
+    "score": 5,
+    "rationale": "This product is explicitly described as recycled gypsum board, making it a highly relevant eco-friendly building material."
+  },
+  {
+    "product_name": "Tool-finished jamb piece (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "Salvaged natural stone like sandstone is considered an eco-friendly building material due to its durability and the reduced impact of reuse."
+  },
+  {
+    "product_name": "Rib-cleaned slab panel (Aluminum formwork scrap)",
+    "score": 3,
+    "rationale": "While aluminum is recyclable, formwork scrap is not typically considered a primary building material itself, making it less directly relevant to the user's search."
+  }
+]

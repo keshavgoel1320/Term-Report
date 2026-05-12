@@ -1,0 +1,102 @@
+[
+  {
+    "product_name": "Rebar-located solid slab strip (Precast concrete panel offcuts)",
+    "score": 4,
+    "rationale": "Precast concrete offcuts with rebar can be repurposed as structural elements for retaining walls."
+  },
+  {
+    "product_name": "Rebar-located hollow-core strip (Precast concrete panel offcuts)",
+    "score": 4,
+    "rationale": "Hollow-core concrete panels with rebar can potentially be used in the construction of retaining walls, especially for fill or structural support."
+  },
+  {
+    "product_name": "Anchor-free solid slab strip (Precast concrete panel offcuts)",
+    "score": 4,
+    "rationale": "Solid concrete slab offcuts can be used as building blocks or fill material for retaining walls."
+  },
+  {
+    "product_name": "Architectural-face hollow-core strip (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "While concrete, the architectural face might not be ideal for the structural needs of a retaining wall, but could be used for fill."
+  },
+  {
+    "product_name": "Anchor-free stair waist cutout (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "Concrete stair cutouts could potentially be used as fill or irregular blocks in a retaining wall structure."
+  },
+  {
+    "product_name": "Saw-cut façade panel offcut (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "Concrete façade offcuts could be used as fill material or broken down for aggregate in a retaining wall."
+  },
+  {
+    "product_name": "Architectural-face façade panel offcut (Precast concrete panel offcuts)",
+    "score": 3,
+    "rationale": "Similar to other façade offcuts, these concrete pieces could serve as fill or be processed for aggregate in retaining wall construction."
+  },
+  {
+    "product_name": "Bush-hammered straight curb (Granite curb stone salvage)",
+    "score": 5,
+    "rationale": "Granite curb stones are excellent, durable materials commonly used for building retaining walls."
+  },
+  {
+    "product_name": "Radius-cut dropped curb block (Granite curb stone salvage)",
+    "score": 5,
+    "rationale": "Granite curb blocks, even with a radius cut, are suitable for constructing robust retaining walls."
+  },
+  {
+    "product_name": "Straight-run dropped curb block (Granite curb stone salvage)",
+    "score": 5,
+    "rationale": "Straight granite curb blocks are ideal for building stable and durable retaining walls."
+  },
+  {
+    "product_name": "Fines-controlled gabion-grade chunks (Crushed masonry rubble)",
+    "score": 4,
+    "rationale": "Gabion-grade chunks are specifically designed for use in gabion walls, a type of retaining structure."
+  },
+  {
+    "product_name": "Flamed straight curb (Granite curb stone salvage)",
+    "score": 5,
+    "rationale": "Granite curb stones are a strong and suitable material for constructing retaining walls."
+  },
+  {
+    "product_name": "Brick-rich mixed masonry block (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Crushed brick and masonry can be used as fill or aggregate for the base of a retaining wall, but may have lower structural integrity than solid blocks."
+  },
+  {
+    "product_name": "Screened gabion-grade chunks (Crushed masonry rubble)",
+    "score": 4,
+    "rationale": "Screened chunks suitable for gabions are directly applicable to building gabion retaining walls."
+  },
+  {
+    "product_name": "Block-rich rubble fines (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "Rubble fines are generally too small and lack the structural integrity for the primary construction of a retaining wall, though could be used as backfill."
+  },
+  {
+    "product_name": "Block-rich mixed masonry block (Crushed masonry rubble)",
+    "score": 3,
+    "rationale": "Mixed masonry blocks can be used as fill or in less critical sections of a retaining wall, but their suitability depends on the specific composition."
+  },
+  {
+    "product_name": "Brick-rich 20 mm rubble blend (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "This fine rubble blend is more suitable for backfill or drainage layers rather than the structural face of a retaining wall."
+  },
+  {
+    "product_name": "Screened rubble fines (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "Rubble fines are generally not suitable for the visible or structural parts of a retaining wall, but could be used as backfill."
+  },
+  {
+    "product_name": "Block-rich 10 mm rubble blend (Crushed masonry rubble)",
+    "score": 2,
+    "rationale": "This very fine rubble blend is best suited for backfill or as a component in a drainage layer behind a retaining wall."
+  },
+  {
+    "product_name": "Block-rich gabion-grade chunks (Crushed masonry rubble)",
+    "score": 4,
+    "rationale": "Gabion-grade chunks are specifically intended for use in constructing gabion retaining walls."
+  }
+]

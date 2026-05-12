@@ -1,0 +1,97 @@
+[
+  {
+    "product_name": "APP modified parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Granule-faced patch repair piece (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing repair, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "SBS modified parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "APP modified patch repair piece (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing repair, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Granule-faced underlay offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing underlay, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "SBS modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing cap sheets, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "APP modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing cap sheets, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "APP modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing membranes, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Granule-faced membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing membranes, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "APP modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing underlay, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Granule-faced cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing cap sheets, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "SBS modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing underlay, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Torch-on parapet flashing strip (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Thermal-break louvre blade (Aluminum window frame salvage)",
+    "score": 1,
+    "rationale": "This product is related to window frames and is completely irrelevant to roofing materials."
+  },
+  {
+    "product_name": "Torch-on membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a waste product related to roofing membranes, but it's not a primary roofing material and the 'cheap' aspect isn't explicitly stated."
+  },
+  {
+    "product_name": "Anodized sash section (Aluminum window frame salvage)",
+    "score": 1,
+    "rationale": "This product is related to window frames and is completely irrelevant to roofing materials."
+  },
+  {
+    "product_name": "Powder-coated outer frame section (Aluminum window frame salvage)",
+    "score": 1,
+    "rationale": "This product is related to window frames and is completely irrelevant to roofing materials."
+  },
+  {
+    "product_name": "Hand-riven eave starter slate (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "This is a roofing material, and 'salvage' implies it could be cheap, making it highly relevant."
+  },
+  {
+    "product_name": "Powder-coated glazing bead strip (Aluminum window frame salvage)",
+    "score": 1,
+    "rationale": "This product is related to window frames and is completely irrelevant to roofing materials."
+  }
+]

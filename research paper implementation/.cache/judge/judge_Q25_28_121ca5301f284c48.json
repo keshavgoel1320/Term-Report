@@ -1,0 +1,142 @@
+[
+  {
+    "product_name": "Bolt-hole verified UB beam section (Scrap structural steel)",
+    "score": 4,
+    "rationale": "This is structural steel, which is a building supply, and being scrap implies it's a recycled or reused material, aligning with sustainability."
+  },
+  {
+    "product_name": "SBS modified underlay offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "While roofing felt is a building material, it's presented as waste, making its direct use as a 'sustainable building supply' less clear without further context on reuse."
+  },
+  {
+    "product_name": "SBS modified membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "Similar to the underlay, this is a roofing material presented as waste, so its relevance as a direct 'sustainable building supply' is moderate."
+  },
+  {
+    "product_name": "Granule-faced membrane roll remnant (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a roofing material remnant, which could be reused, but its primary description as 'waste' makes it moderately relevant to 'sustainable building supplies'."
+  },
+  {
+    "product_name": "Torch-on patch repair piece (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a small piece of roofing material, and while it could be reused, its description as 'waste' limits its relevance as a primary building supply."
+  },
+  {
+    "product_name": "APP modified cap sheet offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a roofing material offcut, which has potential for reuse, but its classification as 'waste' makes it moderately relevant to the search."
+  },
+  {
+    "product_name": "Granule-faced underlay offcut (Bituminous roofing felt waste)",
+    "score": 3,
+    "rationale": "This is a roofing underlay offcut, and while it could be reused, its description as 'waste' makes its relevance as a sustainable building supply moderate."
+  },
+  {
+    "product_name": "Square-edge access panel cutout (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "Ceiling tiles are building components, and these are presented as waste, suggesting potential for reuse, making them moderately relevant."
+  },
+  {
+    "product_name": "Grid-clean 1200 mm tile set (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "These are ceiling tiles, which are building supplies, and their description as 'waste' implies they are reclaimed or for reuse, fitting the sustainability aspect moderately."
+  },
+  {
+    "product_name": "Grid-clean service tile remnant (Mineral fiber ceiling tile waste)",
+    "score": 3,
+    "rationale": "This is a remnant ceiling tile, which is a building component, and its 'waste' status suggests it's a reclaimed material, making it moderately relevant."
+  },
+  {
+    "product_name": "Weathered-face roof slate tile (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Roofing slate is a sustainable building material, and 'salvage' explicitly indicates reuse, making it highly relevant."
+  },
+  {
+    "product_name": "Gauge-sorted hip slate piece (Roofing slate salvage)",
+    "score": 4,
+    "rationale": "Salvaged roofing slate is a sustainable building material, directly aligning with the user's search for sustainable supplies."
+  },
+  {
+    "product_name": "Low-paint board core granules (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "Recycled gypsum board is a sustainable building material, and the 'low-paint' aspect suggests a focus on material quality for reuse."
+  },
+  {
+    "product_name": "Paper-separated board core granules (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "Recycled gypsum board is a sustainable building supply, and the description indicates it's processed for reuse."
+  },
+  {
+    "product_name": "Paper-separated trim strip bundle (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This is recycled gypsum board, a building material, and its processed form suggests it's intended for reuse, fitting the sustainability criteria."
+  },
+  {
+    "product_name": "Pulverized trim strip bundle (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "Recycled gypsum board, even in pulverized form, can be a sustainable building material, aligning with the user's search."
+  },
+  {
+    "product_name": "Low-paint trim strip bundle (Recycled gypsum board)",
+    "score": 4,
+    "rationale": "This is recycled gypsum board, a building material, and its 'low-paint' characteristic is relevant to sustainable material sourcing."
+  },
+  {
+    "product_name": "Rigid-board 75 mm slab offcut (Mineral wool insulation offcuts)",
+    "score": 4,
+    "rationale": "Mineral wool insulation is a building supply, and 'offcuts' implies it's a reclaimed or reused material, fitting the sustainability aspect."
+  },
+  {
+    "product_name": "Band-sawn joist section (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a direct match for 'sustainable building supplies' as it is a reused construction material."
+  },
+  {
+    "product_name": "Joinery-grade plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a perfect fit for 'sustainable building supplies' as it represents reuse of construction materials."
+  },
+  {
+    "product_name": "Joinery-grade post section (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is exactly what a user searching for 'sustainable building supplies' would be looking for."
+  },
+  {
+    "product_name": "De-nailed sal beam (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a prime example of a sustainable building supply, directly addressing the user's search."
+  },
+  {
+    "product_name": "Band-sawn plank board (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a direct and perfect match for the search query 'sustainable building supplies'."
+  },
+  {
+    "product_name": "Band-sawn sal beam (Reclaimed timber)",
+    "score": 5,
+    "rationale": "This is reclaimed timber, which is a core component of sustainable building supplies, making it perfectly relevant."
+  },
+  {
+    "product_name": "Joinery-grade joist section (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a direct match for 'sustainable building supplies' as it is a reused construction material."
+  },
+  {
+    "product_name": "Kiln-dried sal beam (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a perfect fit for 'sustainable building supplies' as it represents reuse of construction materials."
+  },
+  {
+    "product_name": "De-nailed tongue-and-groove strip (Reclaimed timber)",
+    "score": 5,
+    "rationale": "Reclaimed timber is a direct and perfect match for the search query 'sustainable building supplies'."
+  },
+  {
+    "product_name": "Rebar-cleaned slab saw-cut block (Demolition concrete)",
+    "score": 4,
+    "rationale": "While concrete is a building material, 'demolition concrete' implies it's recycled or salvaged, making it a sustainable option."
+  }
+]

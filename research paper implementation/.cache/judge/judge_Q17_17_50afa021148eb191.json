@@ -1,0 +1,87 @@
+[
+  {
+    "product_name": "Riven-face cladding panel (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "This product is a cladding panel made from salvaged sandstone, which is a relevant material for wall cladding, but the 'cheap' aspect is not explicitly mentioned."
+  },
+  {
+    "product_name": "Anchor-free coping slab (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "While this is a salvaged sandstone product, 'coping slab' suggests it's for the top of a wall, not general wall cladding, and 'cheap' is not addressed."
+  },
+  {
+    "product_name": "Tool-finished cladding panel (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "This is a cladding panel made from salvaged sandstone, fitting the 'wall cladding' aspect, but the 'cheap' qualifier is missing."
+  },
+  {
+    "product_name": "Anchor-free cladding panel (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "This is a cladding panel made from salvaged stone, directly relevant to wall cladding, but the 'cheap' aspect is not specified."
+  },
+  {
+    "product_name": "Hand-dressed jamb piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged sandstone piece, but 'jamb piece' implies a specific architectural detail rather than general wall cladding, and 'cheap' is not mentioned."
+  },
+  {
+    "product_name": "Riven-face coping slab (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged sandstone product, but 'coping slab' is for the top of a wall, not general cladding, and 'cheap' is not addressed."
+  },
+  {
+    "product_name": "Anchor-free corner return (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged sandstone piece, but 'corner return' is a specific component, not general wall cladding, and 'cheap' is not mentioned."
+  },
+  {
+    "product_name": "Hand-dressed coping slab (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged stone product, but 'coping slab' is for the top of a wall, not general cladding, and 'cheap' is not addressed."
+  },
+  {
+    "product_name": "Riven-face sill piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged sandstone piece, but 'sill piece' is for a window or door, not general wall cladding, and 'cheap' is not mentioned."
+  },
+  {
+    "product_name": "Hand-dressed sill piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged sandstone piece, but 'sill piece' is for a window or door, not general wall cladding, and 'cheap' is not mentioned."
+  },
+  {
+    "product_name": "Tool-finished corner return (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged stone piece, but 'corner return' is a specific component, not general wall cladding, and 'cheap' is not mentioned."
+  },
+  {
+    "product_name": "Anchor-free jamb piece (Sandstone cladding salvage)",
+    "score": 3,
+    "rationale": "This is a salvaged sandstone piece, but 'jamb piece' implies a specific architectural detail rather than general wall cladding, and 'cheap' is not mentioned."
+  },
+  {
+    "product_name": "Weathered-face ridge slate piece (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not used for wall cladding, making it irrelevant to the search."
+  },
+  {
+    "product_name": "Weathered-face hip slate piece (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not used for wall cladding, making it irrelevant to the search."
+  },
+  {
+    "product_name": "Weathered-face eave starter slate (Roofing slate salvage)",
+    "score": 1,
+    "rationale": "This product is roofing slate, which is not used for wall cladding, making it irrelevant to the search."
+  },
+  {
+    "product_name": "Hand-dressed cladding panel (Sandstone cladding salvage)",
+    "score": 4,
+    "rationale": "This is a cladding panel made from salvaged sandstone, directly relevant to wall cladding, but the 'cheap' aspect is not specified."
+  },
+  {
+    "product_name": "Flamed-face cladding strip (Granite slab offcuts)",
+    "score": 3,
+    "rationale": "This is a granite offcut that could potentially be used as cladding, but it's described as 'strip' and 'offcuts', and the 'cheap' aspect is not explicitly stated."
+  }
+]
