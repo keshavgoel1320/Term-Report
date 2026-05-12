@@ -94,14 +94,26 @@ All pipelines share an identical hybrid retrieval backend: **BM25 (sparse)** + *
 
 ## Quick Start
 
-### Prerequisites
+### View the Simulation UI (No API Keys Required)
 
+You do not need to run the heavy backend LLM pipelines to view the results. The experiment has already been run and the data is saved in this repository.
+
+To view the interactive simulation UI, run the included local server:
+
+```bash
+# This will start a local server and automatically open the UI in your browser
+python simulation/serve.py
+```
+
+### Run the Backend Study (Requires Vertex AI Credentials)
+
+If you want to re-run the actual LLM generation, document enrichment, and evaluation pipelines:
+
+**Prerequisites:**
 - Python 3.11+
 - [uv](https://docs.astral.sh/uv/) package manager
 - Google Cloud ADC configured (`gcloud auth application-default login`)
 - Vertex AI API enabled on your GCP project
-
-### Run the Study
 
 ```bash
 # Install dependencies
